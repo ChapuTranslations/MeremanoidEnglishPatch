@@ -1,0 +1,15 @@
+__pycache__/
+.venv/
+.idea/
+*.pyc
+
+bin/*
+!bin/COPY-GAME-BIN-CUE-HERE
+!bin/Meremanoid (English v1.0).cue
+
+tools/*
+!tools/COPY-TOOLS-HERE
+
+*.idx
+*.log
+*.cue

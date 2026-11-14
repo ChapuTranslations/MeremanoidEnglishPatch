@@ -1,0 +1,561 @@
+0x800997fc|片手剣|1H Sword
+0x80099870|両手剣|2H Sword
+0x800998e4|槍|Spear
+0x80099958|二刀流|Daggers
+0x800999cc|斧|Axe
+0x80099a40|ロッド|Rod
+0x80099ab4|杖|Staff
+0x80099b28|ハンマー|Hammer
+0x80099b9c|グラブ|Gloves
+0x80099c10|爪|Claw
+0x80099c84|斬る|Cut
+0x80099ca0|叩く|Bash
+0x80099cbc|突く|Thrust
+0x80099cd8|薙ぐ|Sweep
+0x80099cf4|振る|Swing
+0x80099d10|パンチ|Punch
+0x80099d2c|フック|Hook
+0x80099d48|アッパー|Upper
+0x80099d64|斬り刻む|Mince
+0x80099d80|斬り打つ|Cross
+0x80099d9c|突き斬る|Finesse
+0x80099db8|突き打つ|Lunge
+0x80099dd4|三連続で斬る|Mince Cut
+0x80099df0|斬り打ち斬る|Cross Cut
+0x80099e0c|斬り打ち突く|Cross Thrust
+0x80099e28|斬りつつ突く|Mince Thrust
+0x80099e44|三連続で突く|Lunge Thrust
+0x80099e60|突き打ち斬る|Lunge Cut
+0x80099e7c|突き斬り打つ|Nimble Thrust
+0x80099e98|突き斬り刻む|Nimble Cut
+0x80099eb4|斬りまくる|Multi Mince
+0x80099ed0|斬打ち斬刻む|Cross Mince
+0x80099eec|斬打ち突斬る|Cross Finesse
+0x80099f08|斬打ち突打つ|Cross Lunge
+0x80099f24|斬り打ち連撃|Multi Cross
+0x80099f40|斬刻み突斬る|Mince Finesse
+0x80099f5c|斬刻み突打つ|Mince Lunge
+0x80099f78|斬刻み斬打つ|Mince Cross
+0x80099f94|突きまくる|Multi Lunge
+0x80099fb0|突斬り突打つ|Nimble Lunge
+0x80099fcc|突斬り斬打つ|Nimble Cross
+0x80099fe8|突斬り斬刻む|Nimble Mince
+0x8009a004|突き斬り連撃|Multi Finesse
+0x8009a020|突打ち斬打つ|Lunge Cross
+0x8009a03c|突打ち斬刻む|Lunge Mince
+0x8009a058|突打ち突斬る|Lunge Finesse
+0x8009a074|突き刺す|Impale
+0x8009a090|突き払う|Drive
+0x8009a0ac|薙ぎ払う|Reap
+0x8009a0c8|薙ぎ突く|Gouge
+0x8009a0e4|三連続で刺す|Impale Thrust
+0x8009a100|突き刺し払う|Impale Sweep
+0x8009a11c|突き払い刺す|Drive Thrust
+0x8009a138|突き薙ぎ払う|Drive Sweep
+0x8009a154|三連続で薙ぐ|Reap Sweep
+0x8009a170|薙ぎ払い突く|Reap Thrust
+0x8009a18c|薙ぎ突き払う|Gouge Sweep
+0x8009a1a8|薙ぎ突き刺す|Gouge Thrust
+0x8009a1c4|突刺しまくる|Othismos
+0x8009a1e0|突刺し突払う|Impale Drive
+0x8009a1fc|突刺し薙払う|Impale Reap
+0x8009a218|突刺し薙突く|Impale Gouge
+0x8009a234|突き払い連撃|Multi Drive
+0x8009a250|突払い突刺す|Drive Impale
+0x8009a26c|突払い薙払う|Drive Reap
+0x8009a288|突払い薙突く|Drive Gouge
+0x8009a2a4|薙払いまくる|Multi Reap
+0x8009a2c0|薙払い薙突く|Reap Gouge
+0x8009a2dc|薙払い突刺す|Reap Impale
+0x8009a2f8|薙払い突払う|Reap Drive
+0x8009a314|薙ぎ突き連撃|Multi Gouge
+0x8009a330|薙突き突刺す|Gouge Impale
+0x8009a34c|薙突き突払う|Gouge Drive
+0x8009a368|薙突き薙払う|Gouge Reap
+0x8009a384|斬り倒す|Chop
+0x8009a3a0|斬り回す|Split
+0x8009a3bc|振り回す|Whirl
+0x8009a3d8|振り斬る|Hack
+0x8009a3f4|三連続で倒す|Chop Cut
+0x8009a410|斬り倒し回す|Chop Swing
+0x8009a42c|斬り振り回す|Split Swing
+0x8009a448|斬り振り斬る|Split Cut
+0x8009a464|連続で振回す|Whirl Swing
+0x8009a480|振り回し斬る|Whirl Cut
+0x8009a49c|振り斬り倒す|Hack Cut
+0x8009a4b8|振り斬り回す|Hack Swing
+0x8009a4d4|倒しまくる|Chop Down
+0x8009a4f0|斬倒し斬回す|Chop Split
+0x8009a50c|斬倒し振回す|Chop Whirl
+0x8009a528|斬倒し振斬る|Chop Hack
+0x8009a544|斬り回し連撃|Multi Split
+0x8009a560|斬回し振回す|Split Whirl
+0x8009a57c|斬回し振斬る|Split Hack
+0x8009a598|斬回し斬倒す|Split Chop
+0x8009a5b4|回しまくる|Pain Carousel
+0x8009a5d0|振回し振斬る|Whirl Hack
+0x8009a5ec|振回し斬倒す|Whirl Chop
+0x8009a608|振回し斬回す|Whirl Split
+0x8009a624|振り斬り連撃|Multi Hack
+0x8009a640|振斬り斬倒す|Hack Chop
+0x8009a65c|振斬り斬振る|Hack Split
+0x8009a678|叩き割る|Pound
+0x8009a694|叩き通す|Topple
+0x8009a6b0|突き通す|Shove
+0x8009a6cc|突き割る|Break
+0x8009a6e8|三連続で叩く|Pound Bash
+0x8009a704|叩き割り突く|Pound Thrust
+0x8009a720|叩き突き通す|Topple Thrust
+0x8009a73c|叩き突き割る|Topple Bash
+0x8009a758|三回連続突く|Shove Thrust
+0x8009a774|突き通し叩く|Shove Bash
+0x8009a790|突き叩き割る|Break Bash
+0x8009a7ac|突き叩き通す|Break Thrust
+0x8009a7c8|叩きまくる|Multi Pound
+0x8009a7e4|叩割り叩通す|Pound Topple
+0x8009a800|叩割り突通す|Pound Shove
+0x8009a81c|叩割り突割る|Pound Break
+0x8009a838|叩き通し連撃|Multi Topple
+0x8009a854|叩通し突通す|Topple Shove
+0x8009a870|叩通し叩割る|Topple Pound
+0x8009a88c|叩通し突割る|Topple Break
+0x8009a8a8|突通しまくる|Jab Flurry
+0x8009a8c4|突通し突割る|Shove Break
+0x8009a8e0|突通し叩割る|Shove Pound
+0x8009a8fc|突通し叩通す|Shove Topple
+0x8009a918|突き割り連撃|Multi Break
+0x8009a934|突割り叩割る|Break Pound
+0x8009a950|突割り叩通す|Break Topple
+0x8009a96c|突割り突通す|Break Shove
+0x8009a988|叩き壊す|Crush
+0x8009a9a4|叩き下ろす|Shatter
+0x8009a9c0|振り下ろす|Knock
+0x8009a9dc|振り壊す|Slam
+0x8009a9f8|三連続で壊す|Crush Bash
+0x8009aa14|叩き壊し回す|Crush Swing
+0x8009aa30|叩き振下ろす|Shatter Swing
+0x8009aa4c|叩き振り壊す|Shatter Bash
+0x8009aa68|三連続で振る|Knock Swing
+0x8009aa84|振下ろし壊す|Knock Bash
+0x8009aaa0|振り叩き壊す|Slam Bash
+0x8009aabc|振壊し下ろす|Slam Swing
+0x8009aad8|壊しまくる|Whack-A-Mole
+0x8009aaf4|叩壊し叩下す|Crush Shatter
+0x8009ab10|叩壊し振下す|Crush Knock
+0x8009ab2c|叩壊し振壊す|Crush Slam
+0x8009ab48|叩下ろし連撃|Multi Shatter
+0x8009ab64|叩下し叩壊す|Shatter Crush
+0x8009ab80|叩下し振壊す|Shatter Slam
+0x8009ab9c|叩下し振下す|Shatter Knock
+0x8009abb8|振下しまくる|Multi Knock
+0x8009abd4|振下し振壊す|Knock Slam
+0x8009abf0|振下し叩壊す|Knock Crush
+0x8009ac0c|振下し叩下す|Knock Shatter
+0x8009ac28|振り壊し連撃|Multi Slam
+0x8009ac44|振壊し叩壊す|Slam Crush
+0x8009ac60|振壊し叩下す|Slam Shatter
+0x8009ac7c|振壊し振下す|Slam Knock
+0x8009ac98|連続パンチ|Double Punch
+0x8009acb4|ワン・ツー|One-Two
+0x8009acd0|Ｐ・アッパー|P-Upper
+0x8009acec|連続フック|Double Hook
+0x8009ad08|Ｆ・パンチ|H-Punch
+0x8009ad24|Ｃ・アッパー|C-Upper
+0x8009ad40|連続アッパー|Double Upper
+0x8009ad5c|Ｕ・パンチ|U-Punch
+0x8009ad78|Ｕ・フック|U-Hook
+0x8009ad94|三連続パンチ|Triple Punch
+0x8009adb0|三連続フック|Triple Hook
+0x8009adcc|三連続Ｕ|Triple Upper
+0x8009adee|ギル＝スパイラル|Gill Spiral
+0x8009ae20|ソー・エナジー|Thor Energy
+0x8009ae52|ブレード・ロー|Blade {RHO}{SP}
+0x8009ae84|クロス・スナイヴ|Cross Knives
+0x8009aeb6|エナジービーム|Energy Beam
+0x8009aee8|リフレクトレイド|Reflect Raid
+0x8009af1a|ジ・ハード|Holy War
+0x8009af4c|タイタンソード|Titan Sword
+0x8009af7e|リップル＝スルー|Ripple Through
+0x8009afb0|ブラストスフィア|Blast Sphere
+0x8009afe2|プロトンゲイン|Proton Gain
+0x8009b014|スイングバット|Bat Swing
+0x8009b046|ブラッディウェブ|Bloody Wave
+0x8009b078|プロヴォウキング|Provoking
+0x8009b0aa|ヘキサ・フランジ|Hexa Flange
+0x8009b0dc|３イヤーズキラー|Triennium Killer
+0x8009b10e|ブレードウェーブ|Blade Wave
+0x8009b140|クラッシュハーツ|Crush Heart
+0x8009b172|ブレイク・バベル|Break Babel
+0x8009b1a4|フォースボール|Force Ball
+0x8009b1d6|エナジーカッター|Energy Cutter
+0x8009b208|コメットブロウ|Comet Rush
+0x8009b23a|サイコクラッシュ|Psycrush
+0x8009b26c|フィッシングロー|Fishing {RHO}{SP}
+0x8009b29e|ムービングクロス|Moving Cross
+0x8009b2d0|バルーンファイト|Balloon Fight
+0x8009b302|スルー・スロー|Through Throw
+0x8009b334|ホエールラッシュ|Whale Rush
+0x8009b366|フィアスラッシュ|Fear Slash
+0x8009b398|アルテミット・Ｓ|Ultimate S
+0x8009b3ca|ミリオンスパーク|Million Sparks
+0x8009b3fc|ナイトメア・Ｄ|Nightmare D
+0x8009b42e|ゴッド・ベル|Godly Bell
+0x8009b460|ゴーストスィーパ|Ghastly Sweep
+0x8009b492|イーグルクロー|Eagle Claw
+0x8009b4c4|モール・ダイブ|Mole Dive
+0x8009b4f6|トールハンマー|Thor Hammer
+0x8009b528|ランバージャック|Lumberjack
+0x8009b55a|ゴッド・ベル|Godly Bell
+0x8009b58c|プロヴォウキング|Provoking
+0x8009b5be|ブラストスフィア|Blast Sphere
+0x8009b5f0|フィアスレイヴ|Fear Slave
+0x8009b622|ダブルウェイブ|Double Wave
+0x8009b654|フォースエレジー|Force Elegy
+0x8009b686|フィアジャックス|Fear Jacks
+0x8009b6b8|スイングハンマー|Hammer Swing
+0x8009b6ea|プロヴォウキング|Provoking
+0x8009b71c|ヤン＝ザンダー|High Thunder
+0x8009b74e|ディメンション|Dimension
+0x8009b776|マインドブラスト|Mind Blast
+0x8009b79e|エナジーボール|Energy Ball
+0x8009b7c6|ガイアクラッシュ|Gaia Crush
+0x8009b7ee|ロックスコール|Rock Squall
+0x8009b816|スクワートアロー|Steam Arrow
+0x8009b83e|アクアパラダイス|Aqua Paradise
+0x8009b866|コール・フレイム|Call Flame
+0x8009b88e|ブレイズフレアー|Blaze Flare
+0x8009b8b6|ブレイズコメット|Blaze Comet
+0x8009b8de|セイレンウインド|Siren Wind
+0x8009b906|メイルストーム|Maelstrom
+0x8009b92e|ライトニング|Lightning
+0x8009b956|サンダーストーム|Thunderstorm
+0x8009b97e|アイスコフィン|Ice Coffin
+0x8009b9a6|アイシクルアンク|Icicle Anchor
+0x8009b9ce|レインボーブレス|Rainbow Breath
+0x8009b9f6|ヘヴンザブレイド|Heaven's Blade
+0x8009ba1e|ソウルスティール|Soul Steal
+0x8009ba46|コール・レイス|Raising Call
+0x8009ba6e|エナジードレイン|Energy Drain
+0x8009ba96|ヒールライト|Healing Light
+0x8009babe|キュアーヒール|Cure Heal
+0x8009bae6|リムーブ・カース|Purification
+0x8009bb0e|レイズ・デッド|Raise Dead
+0x8009bb36|スリープ|Sleep
+0x8009bb5e|アタックアップ|Attack Up
+0x8009bb86|ガードアップ|Defense Up
+0x8009bbae|マジックアップ|Magic Up
+0x8009bbd6|マジックガード|Magic Guard
+0x8009bbfe|マジックバリア|Magic Barrier
+0x8009bc26|スピードアップ|Speed Up
+0x8009bc4e|スローダウン|Slow Down
+0x8009bc76|超音波|Ultrasonic
+0x8009bc9e|死への序曲|Dead Overture
+0x8009bcc6|エネルギーボルト|Energy Bolt
+0x8009bcee|消化液|Gastric Acid
+0x8009bd16|粘りつく体液|Sticky Mucus
+0x8009bd3e|体液|Body Fluids
+0x8009bd66|サンダーニードル|Thunder Needle
+0x8009bd8e|ハーリハーリホー|Spiny-Ho
+0x8009bdb6|ウィングブレード|Wing Blade
+0x8009bdde|マー＝ロケッツ|Mar-Rockets
+0x8009be06|マー＝ロケッツ|Mar-Rockets
+0x8009be2e|エナジーボルト|Energy Bolt
+0x8009be56|毒の牙|Poison Fang
+0x8009be7e|ムーンリバース|Moon Reverse
+0x8009bea6|石化の霧|Petrifying Mist
+0x8009bece|あくあぱららいす|Acua Peridise!
+0x8009bef6|ひでんのこな〜！|Secret Powder!
+0x8009bf1e|リップルビーム|Ripple Beam
+0x8009bf46|天より降りし災厄|Divine Calamity
+0x8009bf6e|汚れ無き翼|Lily Wings
+0x8009bf96|猛毒の牙|Venom Fang
+0x8009bfbe|ファイアーブレス|Fire Breath
+0x8009bfe6|触手|Tentacle
+0x8009c00e|炎の裁き|Flame Judgement
+0x8009c036|ディメンション|Dimension
+0x8009c05e|マインドブラスト|Mind Blast
+0x8009c086|エナジーボール|Energy Ball
+0x8009c0ae|ガイアクラッシュ|Gaia Crush
+0x8009c0d6|ロックスコール|Rock Squall
+0x8009c0fe|スクワートアロー|Steam Arrow
+0x8009c126|アクアパラダイス|Aqua Paradise
+0x8009c14e|コール・フレイム|Call Flame
+0x8009c176|ブレイズフレアー|Blaze Flare
+0x8009c19e|ブレイズコメット|Blaze Comet
+0x8009c1c6|セイレンウインド|Siren Wind
+0x8009c1ee|メイルストーム|Maelstrom
+0x8009c216|ライトニング|Lightning
+0x8009c23e|サンダーストーム|Thunderstorm
+0x8009c266|アイスコフィン|Ice Coffin
+0x8009c28e|アイシクルアンク|Icicle Anchor
+0x8009c2b6|レインボーブレス|Rainbow Breath
+0x8009c2de|ヘヴンザブレイド|Heaven's Blade
+0x8009c306|ソウルスティール|Soul Steal
+0x8009c32e|エナジードレイン|Energy Drain
+0x8009c356|ヒールライト|Healing Light
+0x8009c37e|無力な我が身|Helpless Self
+0x8009c3a6|届かぬ想い|Lovelorn Heart
+0x8009c3ce|レイズ・デッド|Raise Dead
+0x8009c3f6|スリープ|Sleep
+0x8009c41e|アタックアップ|Attack Up
+0x8009c446|ガードアップ|Defense Up
+0x8009c46e|マジックアップ|Magic Up
+0x8009c496|マジックガード|Magic Guard
+0x8009c4be|マジックバリア|Magic Barrier
+0x8009c4e6|スピードアップ|Speed Up
+0x8009c50e|スローダウン|Slow Down
+0x8009c536|墨|Ink
+0x8009c55e|悪臭|Foul Odor
+0x8009c586|ポイゾンバブル|Poison Bubbles
+0x8009c5ae|岩石落とし|Rockfall
+0x8009c5d6|ファイアブレス|Fire Breath
+0x8009c5fe|呪いの言葉|Cursed Words
+0x8009c626|滅びへの誘い|Call to Ruin
+0x8009c64e|抑えきれぬ想い|Wild Heart
+0x8009c67a|薬湯|Medicinal Bath
+0x8009c6a2|良く効く薬湯|Quality Bath
+0x8009c6ca|高価な薬湯|Luxury Bath
+0x8009c6f2|神秘の薬湯|Sacred Bath
+0x8009c71a|気つけの水|Vital Water
+0x8009c742|生命の水|Life Water
+0x8009c76a|エラブの血清|Snake Serum
+0x8009c792|速効頭痛薬|Migraine Pill
+0x8009c7ba|解呪の巻物|Dispel Scroll
+0x8009c7e2|シビレ消しの薬湯|Rousing Bath
+0x8009c80a|毒ヒトデの粉|Starfish Powder
+0x8009c832|電撃のハリ|Spark Needle
+0x8009c85a|磯ギンチャクの粉|Anemone Powder
+0x8009c882|毒ダコの墨|Venomous Ink
+0x8009c8aa|眠昆布の汁|Dozy Kelp Soup
+0x8009c8d2|力の秘薬|Power Potion
+0x8009c8fa|素早さの秘薬|Speed Potion
+0x8009c922|知恵の秘薬|Wisdom Potion
+0x8009c94a|心の秘薬|Heart Potion
+0x8009c972|幸運の秘薬|Happy Potion
+0x8009c99a|万能治療薬|Panacea
+0x8009c9c2|マナの水|Mana Water
+0x8009c9ea|ダイヤモンド原石|Diamond Ore
+0x8009ca12|ルビー原石|Ruby Ore
+0x8009ca3a|エメラルド原石|Emerald Ore
+0x8009ca62|サファイア原石|Sapphire Ore
+0x8009ca8a|クリスタル原石|Crystal Ore
+0x8009cab2|古びた通貨|Old Currency
+0x8009cada|ももいろ真珠|Peach Pearl
+0x8009cb02|ヤワラカ草の根|Soft Grass Root
+0x8009cb2a|ガラス玉|Glass Marble
+0x8009cb52|虹色の鉱石|Rainbow Ore
+0x8009cb7a|ニセモノの通行証|Forged Invite
+0x8009cba2|フルピナ草|Pina Grass
+0x8009cbca|リアンへの手紙|Lulu's Letter
+0x8009cbf2|ギリアムの紹介状|Referral Letter
+0x8009cc1a|フルピナ草の新芽|Pina Sprout
+0x8009cc42|オババの解毒液|Old Wives' Cure
+0x8009cc6a|心のブレス|Heart Bracelet
+0x8009cc92|忘却のカギ|Oblivion Key
+0x8009ccba|思考のカギ|Thought Key
+0x8009cce2|発掘のカギ|Discovery Key
+0x8009cd0a|探求のカギ|Search Key
+0x8009cd32|指輪の台座|Ring Base
+0x8009cd5a|珍しい草の種|Rare Seeds
+0x8009cd82|さんごの薬湯|Coral Bath
+0x8009cdaa|イーグルの羽飾り|Eagle Plume
+0x8009cdd2|双子貝のかけら|Shell Fragment
+0x8009cdfa|虹色の原石|Rainbow Ore
+0x8009ce22|聖者の貴石|Saint's Gem
+0x8009ce4a|トウボクの剣|Sepia Saber
+0x8009ce72|さんごの剣|Coral Cutlass
+0x8009ce9a|大トビウオの剣|Flying Falchion
+0x8009cec2|騎士団の剣|Royal Cutlass
+0x8009ceea|大海の剣|Ocean Scimitar
+0x8009cf12|黒曜石の剣|Obsidian Edge
+0x8009cf3a|ジハイドの剣|Jyhyde Cleaver
+0x8009cf62|ノコギリ鮫の大剣|Sawshark Sword
+0x8009cf8a|水晶の大剣|Crystal Sword
+0x8009cfb2|鋼の大剣|Steel Two-Hander
+0x8009cfda|黒曜石の大剣|Obsidian Sword
+0x8009d002|糸がついた大剣|Threaded Sword
+0x8009d02a|不滅氷の大剣|Glacier Sword
+0x8009d052|地霊の大剣|Earth Reaper
+0x8009d07a|混沌の渦の大剣|Vortex Sword
+0x8009d0a2|混沌の渦の大剣|Vortex Sword
+0x8009d0ca|イカの骨の短剣|Cuttle Knives
+0x8009d0f2|ナナイロ貝の短剣|Abalone Daggers
+0x8009d11a|ベッコウの短剣|Turtle Daggers
+0x8009d142|鉄の短剣|Iron Daggers
+0x8009d16a|魔剣黒竜|Cursed Serpents
+0x8009d192|聖剣白竜|Holy Serpents
+0x8009d1ba|百万の輝きの短剣|Radiant Daggers
+0x8009d1e2|トゲ草の杖|Prickly Staff
+0x8009d20a|流木の杖|Driftwood
+0x8009d232|降霊の杖|Seer Staff
+0x8009d25a|古代魚の杖|Lobefin Plate
+0x8009d282|祝福の杖|Wishing Staff
+0x8009d2aa|魔導霊士の長の杖|Archmage Staff
+0x8009d2d2|ヤリイカの槍|Bleekeri Spear
+0x8009d2fa|大カブトガニの槍|Limulidae Spear
+0x8009d322|イルカの槍|Dolphin Spear
+0x8009d34a|イッカクの槍|Narwhal Spear
+0x8009d372|電気石の槍|Turmaline Spear
+0x8009d39a|海神の槍|Sea God Trident
+0x8009d3c2|海ホタルのロッド|Firefly Rod
+0x8009d3ea|アンコウのロッド|Sea Devil Rod
+0x8009d412|砂漠の蛇のロッド|Desert Snake Rod
+0x8009d43a|紫水晶のロッド|Mauve Scepter
+0x8009d462|女神のロッド|Goddess Rod
+0x8009d48a|魔海流のロッド|Wicked Catalyst
+0x8009d4b2|二枚貝の斧|Bivalvian Axe
+0x8009d4da|黒曜石の斧|Obsidian Axe
+0x8009d502|クジラの斧|Whale Axe
+0x8009d52a|きらびやかな斧|Dazzling Axe
+0x8009d552|星のカケラの斧|Starpiece Axe
+0x8009d57a|万年雪の冷たき斧|Eversnow Axe
+0x8009d5a2|大巻き貝の槌|Conch Hammer
+0x8009d5ca|ウニの槌|Urchin Hammer
+0x8009d5f2|大ロブスターの槌|Lobster Club
+0x8009d61a|土の槌|Earthian Hammer
+0x8009d642|ダイヤの槌|Diamond Hammer
+0x8009d66a|雷神の槌|Lightning Hammer
+0x8009d692|ゴーム草のグラブ|Gomme Gloves
+0x8009d6ba|フグの革のグラブ|Puffer Gloves
+0x8009d6e2|フジツボのグラブ|Barnacle Gloves
+0x8009d70a|クラゲのグラブ|Jellyfists
+0x8009d732|格闘王のグラブ|Champion Gloves
+0x8009d75a|雄々しき鯨の手甲|Whale Gauntlets
+0x8009d782|黒さんごの爪|Black Claw
+0x8009d7aa|きらきらの爪|Glistening Nails
+0x8009d7d2|大ジャコの爪|Mantis Claw
+0x8009d7fa|鮫の牙の爪|Shark Fang
+0x8009d822|怒りの鉄の爪|Hot Steel Claw
+0x8009d84a|誇り高き鷲の爪|Eagle Talon
+0x8009d872|ワカメのローブ|Kelp Robe
+0x8009d89a|ナマコのローブ|Sea Slug Robe
+0x8009d8c2|カレイのローブ|Flounder Robe
+0x8009d8ea|祝福のローブ|Jovial Robe
+0x8009d912|墨色の衣|Inkvoid Robe
+0x8009d93a|フグの皮の鎧|Pufferskin Armor
+0x8009d962|鮫の皮の鎧|Sharkskin Armor
+0x8009d98a|エイの皮の鎧|Rayskin Armor
+0x8009d9b2|クジラの皮の鎧|Whaleskin Armor
+0x8009d9da|墨色の衣|Inkvoid Robe
+0x8009da02|サクラ貝の胸当て|Sakuragai Plate
+0x8009da2a|魚鱗の鎧|Fish Scale Plate
+0x8009da52|大蟹の甲羅の鎧|Crabshell Plate
+0x8009da7a|オニヒトデの鎧|Starfish Plate
+0x8009daa2|海亀のスケイル|Turtle Plate
+0x8009daca|大王イカの骨の鎧|Kraken Plate
+0x8009daf2|古代魚の鱗の鎧|Lobefin Plate
+0x8009db1a|騎士団の鉄鎧|Royal Plate
+0x8009db42|星辰の鎧|Starry Plate
+0x8009db6a|古代竜の鱗の鎧|Serpent Plate
+0x8009db92|鮫の皮の小盾|Shark Buckler
+0x8009dbba|亀の甲羅の小盾|Turtle Buckler
+0x8009dbe2|イカの骨の小盾|Cuttle Buckler
+0x8009dc0a|人喰い貝の盾|Clam Shield
+0x8009dc32|黒曜石の盾|Obsidian Shield
+0x8009dc5a|合金の盾|Alloy Shield
+0x8009dc82|騎士団の盾|Royal Shield
+0x8009dcaa|古代竜の鱗の小盾|Serpent Buckler
+0x8009dcd2|星辰の盾|Starry Shield
+0x8009dcfa|白い貝がらの剣|Pureshell Blade
+0x8009dd22|旅人の帽子|Traveling Hat
+0x8009dd4a|皇帝魚の帽子|Flatfish Hat
+0x8009dd72|魔法使いの帽子|Witch Hat
+0x8009dd9a|妖精海月の帽子|Jellysprite Hat
+0x8009ddc2|月夜に吠える兜|Howler Helm
+0x8009ddea|カブトガニの兜|Crab Helm
+0x8009de12|怪魚の骨の兜|Mystery Helm
+0x8009de3a|騎士団の兜|Royal Helm
+0x8009de62|星辰の兜|Starry Helm
+0x8009de8a|月夜に吠える兜|Howler Helm
+0x8009deb2|イルカのバンダナ|Dolphin Bandana
+0x8009deda|黒鉄のバンダナ|Smithy Bandana
+0x8009df02|ルーンのバンダナ|Rune Bandana
+0x8009df2a|カメオの額冠|Cameo Tiara
+0x8009df52|魔水晶の額冠|Crystal Diadem
+0x8009df7a|さんごの髪飾り|Coral Ornament
+0x8009dfa2|かっぱのおさら|Kappa Head Plate
+0x8009dfca|盗賊の指輪|Thief Ring
+0x8009dff2|海藻のマント|Seaweed Cloak
+0x8009e01a|マンタのマント|Manta Mantle
+0x8009e042|海色のマント|Cerulean Cloak
+0x8009e06a|さんごの指輪|Coral Ring
+0x8009e092|ルビーの指輪|Ruby Ring
+0x8009e0ba|サファイアの指輪|Sapphire Ring
+0x8009e0e2|クリスタルの指輪|Crystal Ring
+0x8009e10a|エメラルドの指輪|Emerald Ring
+0x8009e132|真珠の指輪|Pearl Ring
+0x8009e15a|ダイヤの指輪|Diamond Ring
+0x8009e182|栄光の指輪|Glory Ring
+0x8009e1aa|賢者の指輪|Sage Ring
+0x8009e1d2|闇の名を持つ指輪|Nocturne Ring
+0x8009e1fa|ゴーム草の腕輪|Gomme Bangle
+0x8009e222|鯨の髭の腕輪|Whisker Bangle
+0x8009e24a|海亀の甲羅の小手|Turtle Bracer
+0x8009e272|神秘の腕輪|Sacred Bangle
+0x8009e29a|闇の名を持つ指輪|Nocturne Ring
+0x8009e2c2|真珠の首飾り|Pearl Choker
+0x8009e2ea|銀の首飾り|Silver Choker
+0x8009e312|紺碧の瞳|Azure Eye
+0x8009e33a|虹色の光|Rainbow Light
+0x8009e362|約束つなぐ首飾り|Oath Choker
+0x8009e38a|貝殻のイヤリング|Shell Earclips
+0x8009e3b2|さんごのピアス|Coral Earrings
+0x8009e3da|セイレンのピアス|Siren Earrings
+0x8009e402|王女の涙|Princess Tear
+0x8009e42a|約束つなぐ首飾り|Oath Choker
+0x8009e452|竜の鱗のお守り|Serpent Amulet
+0x8009e47a|女神の聖印|Goddess Seal
+0x8009e4a2|混沌なる水晶|Vortex Amulet
+0x8009e4ca|天命のタブレット|Karmatic Tablet
+0x8009e4f2|炎の護符|Fire Charm
+0x8009e51a|世界の壁|Firmament
+0x8009e542|世界の壁|Firmament
+0x8009e56a|語り部の書|Sayer's Book
+0x8009e592|語り部の書|Sayer's Book
+0x8009e5ba|虹色の短剣|Rainbow Daggers
+0x8009e5e2|時空間の書|Space-Time Tome
+0x8009e60a|精神破壊の書|Psychic Tome
+0x8009e632|魔力弾の書|Projectile Tome
+0x8009e65a|岩槍の書|Rock Spear Tome
+0x8009e682|岩雪崩の書|Rockslide Tome
+0x8009e6aa|水の矢の書|Torrent Tome
+0x8009e6d2|水泡の書|Seafoam Tome
+0x8009e6fa|魔炎召喚の書|Brimstone Tome
+0x8009e722|爆炎の書|Firestorm Tome
+0x8009e74a|流星召喚の書|Meteoroid Tome
+0x8009e772|海流の書|Wave Tome
+0x8009e79a|大渦潮の書|Riptide Tome
+0x8009e7c2|雷迅の書|Jolt Tome
+0x8009e7ea|雷嵐の書|Cloudburst Tome
+0x8009e812|氷柱の書|Hailstone Tome
+0x8009e83a|氷錨の書|Iceberg Tome
+0x8009e862|祝福の虹の書|Aurora Tome
+0x8009e88a|聖剣の書|Excalibur Tome
+0x8009e8b2|魂吸引の書|Soul-Suck Tome
+0x8009e8da|悪霊召喚の書|Evocation Tome
+0x8009e902|生命力吸引の書|Necrotic Tome
+0x8009e92a|癒しの書|Healing Tome
+0x8009e952|治癒の書|Curing Tome
+0x8009e97a|解呪の書|Exorcism Tome
+0x8009e9a2|復活の書|Revival Tome
+0x8009e9ca|催眠の書|Hypnosis Tome
+0x8009e9f2|戦力の書|Vanguard Tome
+0x8009ea1a|守力の書|Sentinel Tome
+0x8009ea42|魔力の書|Arcanist Tome
+0x8009ea6a|魔力壁の書|Abjuration Tome
+0x8009ea92|高速化の書|Fleet-Foot Tome
+0x8009eaba|低速化の書|Sloth Tome
+0x8009eae2|魔法書|Tome
+0x8009eb0a|魔法書|Tome
+0x8009eb32|魔法書|Tome
+0x8009eb5a|魔力の護符|Magic Charm
+0x8009eb82|地の護符|Earth Charm
+0x8009ebaa|水の護符|Water Charm
+0x8009ebd2|風の護符|Wind Charm
+0x8009ebfa|氷の護符|Ice Charm
+0x8009ec22|聖なる護符|Holy Charm
+0x8009ec4a|混沌の護符|Vortex Charm
+0x8009ec72|星辰の剣|Starry Cutlass
+0x8009ec9a|貴族のローブ|Noble Robe
+0x8009ecc2|騎士見習いの剣|Squire's Blade
+0x8009ecea|虹色の指輪|Rainbow Ring

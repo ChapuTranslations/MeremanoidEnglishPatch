@@ -1,0 +1,485 @@
+0x7f8000|薬草を煎じて、瓶に詰めた物。ＨＰ[0d0a]が１００回復する。[0d0a]|A bottled herbal concoction.{0d0a}Restores 100 HP.{0d0a}
+0x7f8800|数種類の薬草を煎じて瓶詰めにした[0d0a]物。ＨＰが２５０回復する。[0d0a]|A bottled multi-herb{0d0a}concoction. Restores 250 HP.{0d0a}
+0x7f9000|効き目の強い高価な薬草を煎じ瓶に[0d0a]詰めた物。ＨＰが５００回復する。[0d0a]|A bottled high-grade herb{0d0a}concoction. Restores 500 HP.{0d0a}
+0x7f9800|神殿より湧き出る湯で数種類の薬を[0d0a]溶かした物。ＨＰが最大まで回復。[0d0a]|Medicinal water flowing from{0d0a}the temple. Restores all HP.{0d0a}
+0x7fa000|薬湯と酒を混ぜ合わせて作った気つ[0d0a]け薬。気絶した仲間を回復させる。|A simple tonic made with wine.{0d0a}Partly revives a fallen ally.{0d0a}
+0x7fa800|神殿で清めた霊酒を蜜で割った物。[0d0a]気絶した仲間を完全に回復させる。[0d0a]|A holy tonic made with honey.{0d0a}Fully revives a fallen ally.{0d0a}
+0x7fb000|温暖な海域に棲む海ヘビの血で作成[0d0a]した血清。毒を中和する。[0d0a]|A remedy made from sea snake{0d0a}blood. Treats poison.{0d0a}
+0x7fb800|神経に強く作用する鎮痛剤。しつこ[0d0a]い頭痛から解放される。[0d0a]|A remedy made to penetrate{0d0a}nerves. Treats headaches.{0d0a}
+0x7fc000|神殿に仕える神官が作成した、解呪[0d0a]の法が記されている巻物。[0d0a]|A scroll penned by a cleric.{0d0a}Used for dispelling curses.{0d0a}
+0x7fc800|神経毒等で緊張した筋肉を解きほぐ[0d0a]す薬。マヒを治す。[0d0a]|A remedy made to ease muscles.{0d0a}Treats paralysis.{0d0a}
+0x7fd000|ヘドロの中に生息しているヒトデを[0d0a]すり潰した物。相手に毒を与える。[0d0a]|A powder made from crushed{0d0a}starfish. Poisons one target.{0d0a}
+0x7fd800|《ニードルボルダー》の針。敵一体[0d0a]に電撃のダメージを与える。[0d0a]|A Needle Boulder needle. Deals{0d0a}electric damage to one target.{0d0a}
+0x7fe000|獲物をシビレさせてから捕獲する、[0d0a]磯ギンチャクを粉末状にした物。[0d0a]|A powder made from a sea{0d0a}anemone. Paralyzes one target.{0d0a}
+0x7fe800|全身に毒を持っている、特殊なタコ[0d0a]の墨。相手の視界を奪う。[0d0a]|An ink sample from a venomous{0d0a}squid. Blinds one target.{0d0a}
+0x7ff000|強い睡眠効果を持つ海中植物《眠昆[0d0a]布》の煮汁。相手を眠らせる。[0d0a]|A broth made from dozy kelp.{0d0a}Puts one target to sleep.
+0x7ff800|数種類の薬を調合して作られた筋力[0d0a]増強剤。ＳＴＲが数ポイント上昇。[0d0a]|A power-enhancing concoction.{0d0a}Raises STR.{0d0a}
+0x800000|数種類の薬を調合して作った素早さ[0d0a]を向上させる薬。ＤＥＸが上昇。[0d0a]|A reflex-enhancing concoction.{0d0a}Raises DEX.{0d0a}
+0x800800|数種類の薬を調合して作った、知性[0d0a]を向上させる薬。ＩＮＴが上昇。[0d0a]|A brain-enhancing concoction.{0d0a}Raises INT.{0d0a}
+0x801000|数人の聖職者の手により清められた[0d0a]神秘的な薬。ＦＡＩが上昇。[0d0a]|A mind-releasing concoction.{0d0a}Raises FAI.{0d0a}
+0x801800|各地にまつられる御神体から流れ出[0d0a]たとされる霊水。ＬＵＫが上昇。[0d0a]|A trickle from an enshrined{0d0a}stream. Raises LUK.{0d0a}
+0x802000|身体から、全ての異常を消し去って[0d0a]くれる霊薬。[0d0a]|A miracle remedy.{0d0a}Treats all status ailments.{0d0a}
+0x802800|聖なる海流の源より汲み上げた水に[0d0a]祝福を与えた物。ＭＰが回復する。[0d0a]|A trickle from a blessed{0d0a}current. Restores MP.{0d0a}
+0x803000|万物中、最も堅い物質。その美しさ[0d0a]故、高貴な者達に愛される宝石。[0d0a]|The hardest known material.{0d0a}Nobles love the gem's sparkle.{0d0a}
+0x803800|紅く輝く紅玉石。勇気の象徴とされ[0d0a]る為、戦士達が好んで身につける。[0d0a]|A gem with a red gleam. Often{0d0a}worn as a symbol of courage.{0d0a}
+0x804000|濃い緑色の緑柱石。ダイヤ・ルビー[0d0a]に次いで高値で取り引きされる。[0d0a]|Deep green beryl. Worth a lot,{0d0a}second to rubies and diamonds.{0d0a}
+0x804800|蒼い輝きを放つアルミナ鉱石。ダイ[0d0a]ヤモンドに次ぐ堅さを誇る。[0d0a]|Alumina ore with a blue glow.{0d0a}Second hardest substance.{0d0a}
+0x805000|六角柱状の結晶として産出する無色[0d0a]透明の鉱石。占い等に使用される。[0d0a]|A hexagonal pillar of pale{0d0a}ore. Used in divination.{0d0a}
+0x805800|数百年昔に通貨とされていた小さな[0d0a]貝がら。古美術品としての価値有。[0d0a]|A tiny shell once used as{0d0a}currency. A collector's item.{0d0a}
+0x806000|かわいらしい桃色の真珠。ちょっと[0d0a]した値がつく。[0d0a]|A lovely pink pearl. Valued as{0d0a}a trinket.{0d0a}
+0x806800|こり固まった身体をほぐす効能をも[0d0a]つ草の根。石化を治す。[0d0a]|A root known to ease muscles.{0d0a}Treats frozen.{0d0a}
+0x807000|キラキラ輝く美しいガラス玉。装飾[0d0a]用だけでなく護身用にも使われる。[0d0a]|A dazzling glass bead. Also{0d0a}used for self-defense purposes.{0d0a}
+0x807800|紫翠の沼で、自然的に生成される稀[0d0a]少な石。虹色の光を放つ。[0d0a]|A rare ore of Alexandrite{0d0a}Bogs. Emits prismatic light.{0d0a}
+0x808000|浄化城に入るために、ヤムナが用意[0d0a]してくれたニセモノの通行許可証。[0d0a]|An invite to enter the Castle{0d0a}of Purity. Forged by Jamuna.{0d0a}
+0x808800|特定の地層にしか生えない、貴重な[0d0a]草。強い回復の力を持つ。[0d0a]|Rare grass grown in select{0d0a}areas. Highly curative.{0d0a}
+0x809000|ルルから預かった、牢屋の見張り番[0d0a]リアンへの手紙。[0d0a]|A letter from Lulu to Leanne,{0d0a}who guards the jail in Valdes.{0d0a}
+0x809800|サーギリアムからもらった、霊峰の[0d0a]里の長に渡す書状。[0d0a]|A letter from Ser Gilliam to{0d0a}the Mountain Settlement leader.{0d0a}
+0x80a000|葉の部分より稀少な新芽。手にした[0d0a]者は願いが叶うと言われている。[0d0a]|A bud rarer than the plant.{0d0a}Grants its owner's wishes.{0d0a}
+0x80a800|フルピナ草の新芽から作られた解毒[0d0a]液。ティアラを救うためのもの。[0d0a]|An antidote made of Pina Grass{0d0a}sprout. Can this save Tiala?{0d0a}
+0x80b000|《静かの海のマーサ》から再会の記[0d0a]念にもらったブレスレット。[0d0a]|A keepsake from Martha{0d0a}that unites two people.{0d0a}
+0x80b800|《忘却の間》で入手した謎の宝珠。[0d0a]何かのカギらしいが・・？[0d0a]|An odd sphere from the Hall of{0d0a}Ruination. Could be a key.{0d0a}
+0x80c000|《思考の間》で入手した謎の宝珠。[0d0a]何かのカギらしいが・・？[0d0a]|An odd sphere from the Hall of{0d0a}Reflection. Could be a key.{0d0a}
+0x80c800|《発掘の間》で入手した謎の宝珠。[0d0a]何かのカギらしいが・・？[0d0a]|An odd sphere from the Hall of{0d0a}Innovation. Could be a key.{0d0a}
+0x80d000|《探求の間》で入手した謎の宝珠。[0d0a]何かのカギらしいが・・？[0d0a]|An odd sphere from the Hall of{0d0a}Curiosity. Could be a key.{0d0a}
+0x80d800|指輪を作るのに必要な部品。宝石を[0d0a]はめ込む事で完全な形になる。[0d0a]|A component of ring forging.{0d0a}All it needs now is a gem.{0d0a}
+0x80e000|見たこともない草の種。運が良けれ[0d0a]ば芽が出るかも知れない。[0d0a]|Unfamiliar seeds. Maybe{0d0a}you can get one to sprout.{0d0a}
+0x80e800|七色さんごの村にある大樹の樹液か[0d0a]ら作られた特別な薬湯。[0d0a]|A special bath made from the{0d0a}sap of the Rainbow Coral tree.{0d0a}
+0x80f000|マー・イーグルの羽根でつくられた[0d0a]伝統あるお守り。[0d0a]|A traditional charm made from{0d0a}the feather of a Mereeagle.{0d0a}
+0x80f800|両面とも全く同じ模様をした二枚貝[0d0a]のかけら。[0d0a]|One part of a bivalve shell{0d0a}with two identical halves.{0d0a}
+0x810000|虹色に輝く美しい原石。希少価値が[0d0a]高い為、高価で取引される。[0d0a]|A precious ore with a{0d0a}vibrant glow. Worth a fortune.{0d0a}
+0x810800|聖職者が神より授かった力の結晶。[0d0a]仲間全てのＨＰ・ＭＰを完全回復。[0d0a]|Crystalized holy power. Fully{0d0a}restores HP/MP for all allies.
+0x811000|倒木を削り剣にした物。剣術の心得[0d0a]を身につける為の練習用武器。★[0d0a]|A sword carved from a fallen{0d0a}tree. Used for training.{SP}{STAR}{SP}{0d0a}
+0x811800|刀身がさんごで作成されている剣。[0d0a]微弱な電流を帯びている。★[0d0a]|A sword with a coral blade. It{0d0a}emits an electric current.{SP}{STAR}{SP}{0d0a}
+0x812000|大トビウオのヒレを加工して剣にし[0d0a]た物。風属性。★[0d0a]|A falchion formed from a{0d0a}flying fish fillet. [Wind]{SP}{STAR}{SP}{0d0a}
+0x812800|騎士団御用達の鉄剣。切れ味は素晴[0d0a]らしいが、重い。聖属性。★[0d0a]|Sword of the royal knights.{0d0a}Sharp but heavy. [Holy] {STAR}{0d0a}
+0x813000|母なる海の力を注ぎ込んだ魔法剣。[0d0a]水属性。★[0d0a]|A sword imbued with the power{0d0a}of the Sea Mother. [Water]{SP}{STAR}{SP}{0d0a}
+0x813800|《黒曜石》を加工して作った片手持[0d0a]ちの剣。闇属性。★[0d0a]|A one-handed sword made{0d0a}of obsidian. [Dark] {STAR}{0d0a}
+0x814000|ジハイドが開発したカラクリ仕掛け[0d0a]の剣。雷属性。★[0d0a]|A mechanical sword developed{0d0a}by Jyhyde. [Electric] {STAR}{0d0a}
+0x814800|《ノコギリザメ》の角の部分を、鋭[0d0a]く研いで作成した両手剣。★[0d0a]|A two-handed sword fitted with{0d0a}the snout of a sawshark.{SP}{STAR}{SP}{0d0a}
+0x815000|魔力を秘めた水晶を刀身にした剣。[0d0a]道具として使うと砕け散るが！？★[0d0a]|A sword with a crystal blade.{0d0a}Breaks if used as an item.{SP}{STAR}{SP}{0d0a}
+0x815800|《鉄》を、特殊技術によって強化し[0d0a]た物質《鋼》を加工して作った剣。[0d0a]|A sword made with a tempered{0d0a}iron alloy known as "steel".{0d0a}
+0x816000|《黒曜石》を加工して作った両手持[0d0a]ちの剣。闇属性を持つ。★[0d0a]|A two-handed sword made{0d0a}of obsidian. [Dark] {STAR}{0d0a}
+0x816800|切先から糸が伸びている謎の剣。ジ[0d0a]ハイドの失敗作らしいが・・？★[0d0a]|A thread flows from the tip.{0d0a}One of Jyhyde's failures? {STAR}{0d0a}
+0x817000|溶けることのない《不滅氷》を削り[0d0a]出して作った両手剣。冷属性。★[0d0a]|A two-handed sword made of{0d0a}unmelting eternal ice. [Ice]{SP}{STAR}{SP}{0d0a}
+0x817800|力強き大地の精霊が鍛えた大剣。地[0d0a]属性。★[0d0a]|A greatsword forged by a{0d0a}mighty earth spirit. [Earth]{SP}{STAR}{SP}{0d0a}
+0x818000|原初の炎で鍛えられた神剣。刃先に[0d0a]巻く紋様が全てを巻き込み断つ！★[0d0a]|Forged in primordial flame.{0d0a}The coiled blade severs all!{SP}{STAR}{SP}{0d0a}
+0x818800|原初の炎で鍛えられた神剣。刃先に[0d0a]巻く紋様が全てを巻き込み断つ！★[0d0a]|Forged in primordial flame.{0d0a}The coiled blade severs all!{SP}{STAR}{SP}{0d0a}
+0x819000|イカの乳白色の骨を加工して作った[0d0a]短剣。軽い為に攻撃が当たり易い。[0d0a]|Daggers made of white cuttle{0d0a}bone. Light and precise.{0d0a}
+0x819800|研ぐ度に切れ味が増す、《ナナイロ[0d0a]貝》を刀身に使った美しい短剣。★[0d0a]|Lovely abalone shell daggers.{0d0a}Unparalleled sharpness. {STAR}{0d0a}
+0x81a000|カメの甲羅を削って作った短剣。水[0d0a]属性。★[0d0a]|Daggers made from{0d0a}a turtle shell. [Water] {STAR}{0d0a}
+0x81a800|バルデスの鉱山で採掘される《鉄》[0d0a]で作った短剣。★[0d0a]|Daggers made of iron{0d0a}mined from Valdes.{SP}{STAR}{SP}{0d0a}
+0x81b000|竜の英雄が使用した呪剣。柄に黒竜[0d0a]の文様が刻まれている。闇属性。★[0d0a]|Black cursed serpent blades{0d0a}once used by a hero. [Dark] {STAR}{0d0a}
+0x81b800|竜の英雄が使用した短剣。柄に白竜[0d0a]の文様が刻まれている。聖属性。★[0d0a]|White holy serpent blades{0d0a}once used by a hero. [Holy] {STAR}{0d0a}
+0x81c000|宝石の欠片を散りばめた短剣。石の[0d0a]一つ一つに魔力が宿る。★[0d0a]|Daggers studded with gems.{0d0a}Each one holds magic power. {STAR}{0d0a}
+0x81c800|固く、トゲのある海草で作った杖。[0d0a]刺さると、とても痛い。[0d0a]|A staff made from spiky seaweed.{0d0a}Its thorns are very painful.{0d0a}
+0x81d000|《海流》に乗り流れ着いた流木を削[0d0a]った物。杖というよりこん棒。★[0d0a]|Wood picked up by the currents.{0d0a}More club than staff. {STAR}{0d0a}
+0x81d800|降霊術を行う際に使用される、特別[0d0a]な処理を施した杖。闇属性。★[0d0a]|A staff specially made to{0d0a}summon spirits. [Dark] {STAR}{0d0a}
+0x81e000|世界創世の頃より生き続ける古代魚[0d0a]の骨で作った杖。魔属性。[0d0a]|A staff made of primeval{0d0a}fish bones. [Magic]{0d0a}
+0x81e800|聖職者達が神事の際に使用する杖。[0d0a]癒しの力が込められている。★[0d0a]|A staff for enacting miracles.{0d0a}A healing aura surrounds it. {STAR}{0d0a}
+0x81f000|かつて《アフロディテ》が魔導霊士[0d0a]の長に授けた魔力が宿る杖。★[0d0a]|A magic staff once given to{0d0a}the archmage by Aphrodite. {STAR}{0d0a}
+0x81f800|ヤリイカの骨を何本も束ねて作った[0d0a]槍。[0d0a]|A spear made of many squid{0d0a}bones tied together.{0d0a}
+0x820000|カブトガニの尻尾の部分を槍に加工[0d0a]した武器。★[0d0a]|The tail of a horseshoe crab{0d0a}fashioned into a spear. {STAR}{0d0a}
+0x820800|イルカの骨を加工して作った槍。軽[0d0a]い為素早い攻撃ができる。[0d0a]|A spear made of dolphin bone.{0d0a}Light and quick.{0d0a}
+0x821000|イッカクの角を加工して作った槍。[0d0a]水属性を持つ。★[0d0a]|A spear made from a narwhal{0d0a}horn. [Water] {STAR}{0d0a}
+0x821800|熱すると電気を発する石トルマリン[0d0a]がはめ込まれた槍。雷属性。★[0d0a]|A spear set with a stone that{0d0a}sparks with heat. [Electric]{SP}{STAR}{SP}{0d0a}
+0x822000|神話の時代、混沌の海を統べた海神[0d0a]の槍。雷属性を持つ。★[0d0a]|Trident of the sea's ruler in{0d0a}the Age of Myths. [Electric]{SP}{STAR}{SP}{0d0a}
+0x822800|深海に棲む《海ホタル》の光を結晶[0d0a]化させはめ込んだロッド。聖属性。|A rod fit with the crystalline{0d0a}glow of sea fireflies. [Holy]{0d0a}
+0x823000|アンコウの提灯の光をロッドの宝石[0d0a]に封じ込めた物。聖属性。★[0d0a]|The rod's gem traps the glow{0d0a}of a sea devil lure. [Holy] {STAR}{0d0a}
+0x823800|砂漠に棲む蛇を棒に巻き付け、炎の[0d0a]魔法で焼き付けた物。火属性。[0d0a]|A rod with a desert snake{0d0a}coiled around it. [Fire]{0d0a}
+0x824000|平和の象徴である紫水晶をはめ込ん[0d0a]だロッド。魔属性を持つ。★[0d0a]|A rod fit with an amethyst,{0d0a}a symbol of peace. [Magic]{SP}{STAR}{SP}{0d0a}
+0x824800|《アフロディテ》がこの世界に置き[0d0a]忘れたとされるロッド。聖属性。★[0d0a]|A rod believed to be left{0d0a}behind by Aphrodite. [Holy] {STAR}{0d0a}
+0x825000|魔界より流れる海流を司ると言われ[0d0a]る伝説のロッド。魔属性。★[0d0a]|A catalyst said to control{0d0a}infernal currents. [Magic]{SP}{STAR}{SP}{0d0a}
+0x825800|《ホタテ》と呼ばれている二枚貝を[0d0a]斧に加工したもの。[0d0a]|An axe made from a bivalve{0d0a}known as a yesso scallop.{0d0a}
+0x826000|削ることによって切れ味が鋭くなる[0d0a]《黒曜石》を使った斧。闇属性。[0d0a]|An axe made with sharpened{0d0a}obsidian. [Dark]{0d0a}
+0x826800|死んだクジラの骨から作られた斧。[0d0a]クジラの魂が宿る。水属性。★[0d0a]|An axe made of a whale's bone.{0d0a}Its soul lingers. [Water] {STAR}{0d0a}
+0x827000|魔法が宿った宝石をたくさん散りば[0d0a]めた斧。とても高価。[0d0a]|An axe studded with many{0d0a}magic gems. Very valuable.{0d0a}
+0x827800|世界の彼方より降ってきた炎を宿す[0d0a]鉱物を鍛え作った斧。火属性。★[0d0a]|An axe forged from a flaming{0d0a}ore from beyond. [Fire] {STAR}{0d0a}
+0x828000|万年雪と氷山の氷で作られた斧。常[0d0a]に冷気を発している。冷属性。★[0d0a]|A frigid axe made of firn{0d0a}and glacial ice. [Cold] {STAR}{0d0a}
+0x828800|大きなヤドカリが使っていた巻き貝[0d0a]を加工して作った槌。とても重い。[0d0a]|A big conch shell hammer. Once{0d0a}a hermit crab's home. Lofty.{0d0a}
+0x829000|たくさんのウニを一つの槌に付けた[0d0a]ちくちくと刺さって痛い槌。[0d0a]|A painful prickly hammer with{0d0a}sea urchins stuck to it.{0d0a}
+0x829800|深海に生息する《大ロブスター》の[0d0a]ハサミを加工して作った槌。★[0d0a]|The pincer of a giant lobster{0d0a}that lives in the deep sea. {STAR}{0d0a}
+0x82a000|土を焼き固めて作った槌。大地の力[0d0a]が込められている。土属性。[0d0a]|An earthen hammer made of{0d0a}baked clay. [Earth]{0d0a}
+0x82a800|《ダイヤモンド》を斧頭に使ったぜ[0d0a]い沢な槌。魔属性。★[0d0a]|An extravagent hammer with{0d0a}a diamond head. [Magic] {STAR}{0d0a}
+0x82b000|かつて創造神が邪神との闘いの際に[0d0a]使用したとされる槌。雷属性。★[0d0a]|A hammer used to strike down{0d0a}the Male God. [Electric]{SP}{STAR}{SP}{0d0a}
+0x82b800|伸縮自在な海藻《ゴーム草》ででき[0d0a]ているグラブ。軽くて丈夫。[0d0a]|Gloves made of flexible{0d0a}Gomme kelp. Light and durable.{0d0a}
+0x82c000|フグの皮で作ったグラブ。伸縮性が[0d0a]高く扱いやすい。★[0d0a]|Gloves made of puffer skin.{0d0a}Elastic and easy to use.{SP}{STAR}{SP}{0d0a}
+0x82c800|《ゴーム草のグラブ》に、フジツボ[0d0a]を散りばめたグラブ。痛さ倍増。[0d0a]|Gomme Gloves covered in{0d0a}acorn barnacles for more pain.{0d0a}
+0x82d000|《クラゲ》から取れる特殊な布でで[0d0a]きているグラブ。雷属性。★[0d0a]|Gloves made from jellyfish{0d0a}material. [Electric]{SP}{STAR}{SP}{0d0a}
+0x82d800|伝説の格闘家《ボノゥ》が使ってい[0d0a]たとされる、鉄製のグラブ。★[0d0a]|Solid iron gloves worn by the{0d0a}great martial artist Bono.{SP}{STAR}{SP}{0d0a}
+0x82e000|鯨達の王、その魂を宿したとされる[0d0a]手甲。凄まじい破壊力を秘める。★[0d0a]|Contains the soul of the Whale{0d0a}Monarch. Immense might. {STAR}{0d0a}
+0x82e800|さんごの中で最も固い《黒さんご》[0d0a]で作った高い強度を誇る爪。[0d0a]|High strength claw made of{0d0a}extremely hard black coral.{0d0a}
+0x82f000|マーメノイド達の間で一時期流行っ[0d0a]た、奇麗な模様の付いた付け爪。[0d0a]|Decorative fake nails once{0d0a}popular among Meremanoids.{0d0a}
+0x82f800|シャコが持っている鋭い爪を切り、[0d0a]武器として改良した物。★[0d0a]|The sharp end of a mantis{0d0a}shrimp claw, modified.{SP}{STAR}{SP}{0d0a}
+0x830000|サメから抜けた牙を、何本も重ねて[0d0a]作った爪。★[0d0a]|A claw lined with{0d0a}countless shark teeth.{SP}{STAR}{SP}{0d0a}
+0x830800|娘を奪われた鍛冶屋がその怒りを込[0d0a]めたとされる爪。火属性。[0d0a]|Holds the fury of a blacksmith{0d0a}missing their daughter. [Fire]{0d0a}
+0x831000|創造神の下で邪神と戦ったマーイー[0d0a]グルの英雄が使った爪。風属性。★[0d0a]|Claw of the Mereeagle hero who{0d0a}fought for Aphrodite. [Wind]{SP}{STAR}{SP}{0d0a}
+0x831800|ワカメの繊維を一本一本丁寧に織り[0d0a]込んだ布で作られたローブ。[0d0a]|A robe made with masterfully{0d0a}interwoven wakame seaweed.{0d0a}
+0x832000|ナマコのヌメヌメとした皮で作った[0d0a]ローブ。回避率が高い。雷耐性。[0d0a]|Made of slick sea slug skin.{0d0a}Evasion up. RES Electric.{0d0a}
+0x832800|カレイの皮をローブに仕立てた物。[0d0a]地耐性。[0d0a]|A robe stitched together with{0d0a}flounder skin. RES Earth.{0d0a}
+0x833000|神の庭に生える海草の繊維で編み上[0d0a]げられたローブ。聖対抗。[0d0a]|A robe woven with seagrass{0d0a}grown in the Garden. RES Holy.{0d0a}
+0x833800|聖なる海流より紡がれた糸で織られ[0d0a]た衣。深海でのみ輝く。[0d0a]|Robes spun with threads from{0d0a}the holy Mere. Radiant.{0d0a}
+0x834000|フグの皮を何枚も縫い付け強化した[0d0a]軽めの鎧。[0d0a]|Light armor reinforced with{0d0a}layers of puffer fish skin.{0d0a}
+0x834800|サメの皮を、皮鎧に仕立てたもの。[0d0a]水耐性有。[0d0a]|Leather armor made with{0d0a}shark skin. RES Water.{0d0a}
+0x835000|エイの皮をなめして、皮鎧に仕立て[0d0a]あげた物。雷耐性。[0d0a]|Leather armor made from tanned{0d0a}stingray skin. RES Electric.{0d0a}
+0x835800|魚達の王であるクジラから作られた[0d0a]皮鎧。水対抗。[0d0a]|Leather armor made from{0d0a}the Monarch of Fish. RES Water.{0d0a}
+0x836000|聖なる海流より紡がれた糸で織られ[0d0a]た衣。深海でのみ輝く。[0d0a]|Robes spun with threads from{0d0a}the holy Mere. Radiant.{0d0a}
+0x836800|サクラ貝で装飾を施した、ピンク色[0d0a]の可愛らしい鎧。[0d0a]|Cute pink armor decorated{0d0a}with sakuragai shells.{0d0a}
+0x837000|大型魚の堅い鱗で作られた鎧。兵士[0d0a]達の標準装備。[0d0a]|Armor made of hard fish scale.{0d0a}Standard soldier equipment.{0d0a}
+0x837800|大蟹の甲羅から作られた鎧。軽い割[0d0a]に防御力が高い。[0d0a]|Armor made from crabshell.{0d0a}Light, but boasts high DFP.{0d0a}
+0x838000|オニヒトデを張り合わせたスパイク[0d0a]付きの鎧。[0d0a]|Armor covered in spikes from{0d0a}a crown-of-thorns starfish.{0d0a}
+0x838800|海亀の甲羅を何枚も張り合わせた強[0d0a]固な鎧。実用度は高い。冷耐性。[0d0a]|Solid, practical armor made of{0d0a}sea turtle shells. RES Ice.{0d0a}
+0x839000|軽く頑丈な大王イカの骨を加工して[0d0a]作った鎧。鉄板で補強されている。[0d0a]|Light, durable giant squid{0d0a}bone armor layered with iron.{0d0a}
+0x839800|生きた化石と呼ばれる、魚の鱗で作[0d0a]られた鎧。魔耐性。[0d0a]|Armor made of fish scales from{0d0a}a living fossil. RES Magic.{0d0a}
+0x83a000|精鋭揃いの騎士団で支給される鎧。[0d0a]聖耐性。[0d0a]|Armor awarded only to{0d0a}elite knights. RES Holy.{0d0a}
+0x83a800|燃えさかる流星の破片を鎧に加工し[0d0a]た物。火耐性。[0d0a]|Armor made from a piece of{0d0a}a falling star. RES Fire.{0d0a}
+0x83b000|神話の時代を生きた竜の鱗で作られ[0d0a]た鎧。高い防御力を誇る。[0d0a]|High DFP armor made of serpent{0d0a}scales from the Age of Myths.{0d0a}
+0x83b800|サメの皮を張って作った小盾。軽い[0d0a]為、扱いやすい。[0d0a]|A buckler covered in shark{0d0a}skin. Light and maneuverable.{0d0a}
+0x83c000|海亀の甲羅で作った小盾。軽くて丈[0d0a]夫な上、扱いやすい。[0d0a]|A small sea turtle shell.{0d0a}Light, sturdy, and practical.{0d0a}
+0x83c800|イカの甲骨を削り小盾にした物。軽[0d0a]く、扱いやすい。[0d0a]|A buckler cut from cuttlebone.{0d0a}Light and maneuverable.{0d0a}
+0x83d000|人喰い貝とも呼ばれる、オオシャコ[0d0a]ガイから作られた盾。[0d0a]|A shield made from a giant{0d0a}clam dubbed the Killer Clam.{0d0a}
+0x83d800|表面に黒曜石を使うことで、防御力[0d0a]を強化した盾。[0d0a]|A shield with an obsidian{0d0a}surface. Raises DFP.{0d0a}
+0x83e000|様々な金属を合わせた合金で作られ[0d0a]た盾。重くて固い。[0d0a]|A shield forged from a mixture{0d0a}of metals. Strong and heavy.{0d0a}
+0x83e800|精鋭揃いの騎士団で支給される盾。[0d0a]聖耐性。[0d0a]|A shield awarded only to{0d0a}elite knights. RES Holy.{0d0a}
+0x83f000|竜の鱗に特殊な処理を施し小盾にし[0d0a]た物。驚く程軽い。冷耐性。[0d0a]|A special serpent scale{0d0a}buckler. Oddly light. RES Ice.{0d0a}
+0x83f800|燃えさかる流星の破片を盾に加工し[0d0a]た物。火耐性。[0d0a]|A shield made from a piece of{0d0a}a falling star. RES Fire.{0d0a}
+0x840000|白い貝がらを削って作った剣。狩人[0d0a]達に愛用されている。[0d0a]|Made from white seashells.{0d0a}A favorite among hunters.{0d0a}
+0x840800|長旅に耐えられるように丈夫に作ら[0d0a]れた、旅人向きの帽子。風耐性。[0d0a]|A durable hat designed to{0d0a}last long journeys. RES Wind.{0d0a}
+0x841000|皇帝魚の頭を模して作った頑強な帽[0d0a]子。聖耐性。[0d0a]|A hardy hat resembling an{0d0a}olive flounder. RES Holy.{0d0a}
+0x841800|魔法使いが愛用している可愛らしい[0d0a]とんがり帽子。魔耐性有。[0d0a]|A cute pointy hat favored{0d0a}by mages. RES Magic.{0d0a}
+0x842000|《ヨウセイクラゲ》の皮を加工して[0d0a]帽子にした物。雷耐性。[0d0a]|A hat made from the skin of{0d0a}a jellysprite. RES Electic.{0d0a}
+0x842800|伝説の神獣の頭を象った銀の兜。[0d0a]その炎のたてがみが月夜に映える。[0d0a]|A divine beast silver helm.{0d0a}The night gleams off its mane.{0d0a}
+0x843000|カブトガニを素材とした兜。比較的[0d0a]安価で入手しやすい。[0d0a]|A horseshoe crab used as a{0d0a}helm. Cheap and orthodox.{0d0a}
+0x843800|奇妙な姿をした魚の骨で作った兜。[0d0a]そこそこの防御力を持っている。[0d0a]|A helm made of strange-looking{0d0a}fish bones. Moderate DFP.{0d0a}
+0x844000|精鋭揃いの騎士団で支給される兜。[0d0a]聖耐性。[0d0a]|A helm awarded only to elite{0d0a}knights. RES Holy.{0d0a}
+0x844800|燃えさかる流星の破片を兜に加工し[0d0a]た物。火耐性。[0d0a]|A helm made from a piece of{0d0a}a falling star. RES Fire.{0d0a}
+0x845000|伝説の神獣の頭を象った銀の兜。[0d0a]その炎のたてがみが月夜に映える。[0d0a]|A divine beast silver helm.{0d0a}The night gleams off its mane.{0d0a}
+0x845800|イルカの刺繍がされたバンダナ。身[0d0a]に付けると回避率が上がる。[0d0a]|A bandana with a dolphin{0d0a}embroidery. Evasion up.{0d0a}
+0x846000|黒鉄（くろがね）で額部を補強して[0d0a]あるバンダナ。[0d0a]|A bandana reinforced with{0d0a}black steel over the forehead.{0d0a}
+0x846800|聖職者が紡いだ糸でルーン文字を縫[0d0a]いつけたバンダナ。魔耐性。[0d0a]|A bandana with runes sewn{0d0a}on by a cleric. RES Holy.{0d0a}
+0x847000|素材である貝殻の色を活かす為の細[0d0a]工を施した、美しい額冠。聖耐性。[0d0a]|A tiara crafted to make the{0d0a}seashell colors pop. RES Holy.{0d0a}
+0x847800|魔水晶と呼ばれる闇の魔力を秘めた[0d0a]石でできた儀式用の額冠。闇耐性。[0d0a]|A ceremonial diadem made of{0d0a}dark magic crystals. RES Dark.{0d0a}
+0x848000|薄桃色のさんごが散りばめられた、[0d0a]美しい髪飾り。ＩＮＴ＋２。[0d0a]|A beautiful hair ornament set{0d0a}with pale pink coral. INT + 2.{0d0a}
+0x848800|伝説の魔獣《かっぱ》の頭上に輝く[0d0a]円盤状の防具。水耐性。|The shining disk armor atop{0d0a}the mythical kappa. RES Water.{0d0a}
+0x849000|盗賊達が好んで身につける魔法の指[0d0a]輪。ＤＥＸが上昇する。[0d0a]|A magic ring sought out by{0d0a}thieves. Raises DEX.{0d0a}
+0x849800|海藻を縫い合わせてできたマント。[0d0a]保護色としての効果も期待できる。[0d0a]|A cloak sewn with seaweed. It{0d0a}can also work as camouflage.{0d0a}
+0x84a000|マンタ（大きなエイ）を思わせる、[0d0a]ゆったりとしたマント。風耐性。[0d0a]|A comfy mantle that resembles{0d0a}a manta ray. RES Wind.{0d0a}
+0x84a800|神秘的な深い青色をしたマント。海[0d0a]の力の加護がある。水耐性。[0d0a]|A mystical blue cloak brimming{0d0a}with oceanic power. RES Water.{0d0a}
+0x84b000|魔力を帯びた台座にさんごを乗せた[0d0a]指輪。ＩＮＴが１上昇。雷耐性。[0d0a]|Coral is set into its magical{0d0a}base. INT + 1. RES Electric.{0d0a}
+0x84b800|勇気の石、ルビーの指輪。身につけ[0d0a]るとＳＴＲが１０上昇、火耐性有。[0d0a]|Holds a ruby, the stone of{0d0a}courage. STR + 10. RES Fire.{0d0a}
+0x84c000|心の石サファイアの指輪。身につけ[0d0a]るとＦＡＩ＋１０、水耐性有。[0d0a]|Holds a sapphire, the stone of{0d0a}the heart. FAI + 10. RES Water.{0d0a}
+0x84c800|知恵の石クリスタルの指輪、身につ[0d0a]けるとＩＮＴ＋１０、地耐性有。[0d0a]|Holds a crystal, the stone of{0d0a}wisdom. INT + 10. RES Earth.{0d0a}
+0x84d000|聖なる海流の輝きを持つ石エメラル[0d0a]ドの指輪。ＤＥＸ＋１０、風耐性。[0d0a]|Holds an emerald, the stone of{0d0a}Mere. DEX + 10. RES Wind.{0d0a}
+0x84d800|上流階級御用達の、美しい真珠の指[0d0a]輪。ＩＮＴ＋２、冷耐性有。[0d0a]|A gorgeous pearl ring worn by{0d0a}the wealthy. INT + 2. RES Ice.{0d0a}
+0x84e000|魔力の石ダイヤモンドの指輪。身に[0d0a]つけるとＬＵＫ＋１０、魔耐性有。[0d0a]|Holds a diamond, the stone of{0d0a}magic. LUK + 10. RES Magic.{0d0a}
+0x84e800|ジハイド卿の過去の栄光を祝した指[0d0a]輪。ＩＮＴ＋８[0d0a]|A ring that celebrated{0d0a}Lady Jyhyde's glory. INT + 8.{0d0a}
+0x84f000|パイエアの賢者の指輪。ＩＮＴ＋８[0d0a]魔耐性。[0d0a]|The ring of a Pai'ean sage.{0d0a}INT + 8. RES Magic.{0d0a}
+0x84f800|闇色の貴石に、金の象眼が施された[0d0a]小さな指輪。魔力が感じられるが？[0d0a]|Contains dark gems inlaid with{0d0a}gold. Emits...magic power?{0d0a}
+0x850000|伸縮自在の素材を使った腕輪。電撃[0d0a]耐性を持っている。[0d0a]|A bangle using an elastic{0d0a}material. RES Electric.{0d0a}
+0x850800|鯨の髭を編んで作った腕輪。強き力[0d0a]が宿る。ＳＴＲ＋１０、水耐性。[0d0a]|A bangle woven with whale{0d0a}whiskers. STR + 10. RES Water.{0d0a}
+0x851000|海亀の甲羅を加工して作った防具。[0d0a]それなりの防御効果を期待できる。[0d0a]|Armor made of turtle shell.{0d0a}It provides moderate DFP.{0d0a}
+0x851800|海の神秘を彫り込んだ腕輪。回避率[0d0a]が少し上昇。ＦＡＩ＋５、聖耐性。[0d0a]|Etched with sea secrets.{0d0a}Evasion up. FAI + 5. RES Holy.{0d0a}
+0x852000|闇色の貴石に、金の象眼が施された[0d0a]小さな指輪。魔力が感じられるが？[0d0a]|Contains dark gems inlaid with{0d0a}gold. Emits...magic power?{0d0a}
+0x852800|乳白色に鈍く輝く、大粒の真珠を連[0d0a]ねた首飾り。ＦＡＩ＋１。[0d0a]|Glossy milk-white pearls{0d0a}strung in a choker. FAI + 1.{0d0a}
+0x853000|魔除けの力を持つ、銀で作られた首[0d0a]飾り。闇の属性に耐性がある。[0d0a]|A choker made of silver that{0d0a}wards off evil. RES Dark.{0d0a}
+0x853800|大粒のアクアマリンを使ったネック[0d0a]レス。冷気の属性に耐性を持つ。[0d0a]|A necklace using a large drop{0d0a}of aquamarine. RES Ice.{0d0a}
+0x854000|比類なき美しさを持つ、ゴージャス[0d0a]な首飾り。精神異常を防止できる。[0d0a]|A choker of unrivaled beauty.{0d0a}Prevents mental effects.{0d0a}
+0x854800|恋人達が、別れの際に交換した首飾[0d0a]り。そこには想う相手の姿が宿る。[0d0a]|A memento exchanged{0d0a}between parting lovers.{0d0a}
+0x855000|サクラ貝を加工して作ったイヤリン[0d0a]グ。少し攻撃を避けやすくなる。[0d0a]|Ear clips made from{0d0a}sakuragai shells. Evasion up.{0d0a}
+0x855800|薄桃色のさんごから作ったピアス。[0d0a]雷耐性。ＬＵＫ＋３[0d0a]|Pale pink coral earrings.{0d0a}RES Electric. LUK + 3.{0d0a}
+0x856000|セイレンが付けていたと言われるピ[0d0a]アス。混乱を防ぐ効果を持っている。[0d0a]|Earrings said to be worn by{0d0a}sirens. Prevents confusion.{0d0a}
+0x856800|悲恋に散った王女が流した涙が、結[0d0a]晶化した物。即死攻撃を防ぐ。[0d0a]|A tear of a princess lost in{0d0a}her love. Prevents instakill.{0d0a}
+0x857000|恋人達が、別れの際に交換した首飾[0d0a]り。そこには想う相手の姿が宿る。[0d0a]|A memento exchanged between{0d0a}parting lovers.{0d0a}
+0x857800|竜鱗を思わせる大きな鱗のお守り。[0d0a]ＳＴＲ＋２、冷耐性。[0d0a]|An amulet that resembles a{0d0a}serpent scale. STR + 2. RES Ice.{0d0a}
+0x858000|熱心な信者や神官達が身につけてい[0d0a]る聖印。ＦＡＩ＋１０、聖耐性。[0d0a]|A seal worn by devotees and{0d0a}clerics. FAI + 10. RES Holy.{0d0a}
+0x858800|混沌の力を持つとされる水晶。聖な[0d0a]る力を防ぐことができる。[0d0a]|A crystal holding the power{0d0a}of Chaos. Repels holy power.{0d0a}
+0x859000|正しきことを行う者のみが手にする[0d0a]事ができると言われている品。[0d0a]|It is said that only the{0d0a}righteous may hold this.{0d0a}
+0x859800|霊峰の里の魔道霊士によって作られ[0d0a]た護符。炎の威力を軽減する。[0d0a]|A charm crafted by a{0d0a}spirit mage. RES Fire.{0d0a}
+0x85a000|世界を隔てる闇色のマント。それは[0d0a]全てを覆い隠す、優しさでもある。[0d0a]|A dark cloak containing the{0d0a}sea. The gentle veil over all.{0d0a}
+0x85a800|世界を隔てる闇色のマント。それは[0d0a]全てを覆い隠す、優しさでもある。[0d0a]|A dark cloak containing the{0d0a}sea. The gentle veil over all.{0d0a}
+0x85b000|真実が描き出されている本。手にす[0d0a]る者は、世界を失うと言われる。[0d0a]|A book exposing the truth. The{0d0a}owner's world shall be lost.{0d0a}
+0x85b800|真実が描き出されている本。手にす[0d0a]る者は、世界を失うと言われる。[0d0a]|A book exposing the truth. The{0d0a}owner's world shall be lost.{0d0a}
+0x85c000|《虹色の鉱石》から作られた短剣。[0d0a]美術品としての価値が高い。[0d0a]|Daggers made of Rainbow Ore.{0d0a}An art piece of high value.{0d0a}
+0x85c800|《ディメンション》の魔法が記され[0d0a]た本。次元の歪みへ敵を弾き出す。[0d0a]|Contains Dimension: Warp{0d0a}enemies to another dimension.{0d0a}
+0x85d000|《マインドブラスト》の魔法が記さ[0d0a]れた本。相手の精神を破壊し攻撃。[0d0a]|Contains Mind Blast:{0d0a}A mind destruction attack.{0d0a}
+0x85d800|《エナジーボール》の魔法が記され[0d0a]た本。魔力の固まりを飛ばし攻撃。[0d0a]|Contains Energy Ball:{0d0a}A magic ball shooting attack.{0d0a}
+0x85e000|《ガイアクラッシュ》の魔法が記さ[0d0a]れた本。岩の槍で標的を攻撃。[0d0a]|Contains Gaia Crush:{0d0a}A targeted earth spear attack.{0d0a}
+0x85e800|《ロックスコール》の魔法が記され[0d0a]た本。石つぶてで相手を攻撃する。[0d0a]|Contains Rock Squall:{0d0a}Throw stones at enemies.{0d0a}
+0x85f000|《スクワートアロー》の魔法が記さ[0d0a]れた本。間欠泉で相手にダメージ。[0d0a]|Contains Steam Arrow:{0d0a}Damage enemies with a geyser.{0d0a}
+0x85f800|《アクアパラダイス》の魔法が記さ[0d0a]れた本。水泡で相手を包み攻撃。[0d0a]|Contains Aqua Paradise:{0d0a}Surround enemies in bubbles.{0d0a}
+0x860000|《コール・フレイム》の魔法が記さ[0d0a]れた本。召喚した炎で相手を攻撃。[0d0a]|Contains Call Flame: Summon{0d0a}a flame to attack enemies.{0d0a}
+0x860800|《ブレイズフレアー》の魔法が記さ[0d0a]れた本。相手の前で爆発を起こす。[0d0a]|Contains Blaze Flare: Unleash{0d0a}an explosion near enemies.{0d0a}
+0x861000|《ブレイズコメット》の魔法が記さ[0d0a]れた本。流星で相手を攻撃する。[0d0a]|Contains Blaze Comet: Attack{0d0a}enemies with a falling star.{0d0a}
+0x861800|《セイレンウインド》の魔法が記さ[0d0a]れた本。魔力の渦を作り出し攻撃。[0d0a]|Contains Siren Wind:{0d0a}A magic vortex attack.{0d0a}
+0x862000|《メイルストーム》の魔法が記され[0d0a]た本。魔力で激流を発生させ攻撃。[0d0a]|Contains Maelstrom: Magic{0d0a}that summons raging rapids.{0d0a}
+0x862800|《ライトニング》の魔法が記された[0d0a]本。電撃の帯で相手をマヒさせる。[0d0a]|Contains Lightning: Paralyze{0d0a}foes with an electric bolt.{0d0a}
+0x863000|《サンダーストーム》の魔法が記さ[0d0a]れた本。電流の嵐で相手を攻撃。[0d0a]|Contains Thunderstorm: Trap{0d0a}enemies in an electric storm.{0d0a}
+0x863800|《アイスコフィン》の魔法が記され[0d0a]た本。相手を凍らせる。[0d0a]|Contains Ice Coffin:{0d0a}Freeze enemies.{0d0a}
+0x864000|《アイシクルアンク》の魔法が記さ[0d0a]れた本。氷塊を相手の上に落とす。[0d0a]|Contains Icicle Anchor: Drop{0d0a}a lump of ice on enemies.{0d0a}
+0x864800|《レインボーブレス》の魔法が記さ[0d0a]れた本。聖なる祝福で相手を攻撃。[0d0a]|Contains Rainbow Breath:{0d0a}Attack enemies with blessings.{0d0a}
+0x865000|《ヘヴンザブレイド》の魔法が記さ[0d0a]れた本。聖剣で相手を一刀両断。[0d0a]|Contains Heaven's Blade: Split{0d0a}foes in two with a holy blade.{0d0a}
+0x865800|《ソウルスティール》の魔法が記さ[0d0a]れた本。相手の魂を奪う。[0d0a]|Contains Soul Steal:{0d0a}Take an enemy's soul.{0d0a}
+0x866000|《コール・レイス》の魔法が記され[0d0a]た本。黄泉の扉を開き死霊を呼ぶ。[0d0a]|Contains Raising Call: Call{0d0a}upon a spirit from the hells.{0d0a}
+0x866800|《エナジードレイン》の魔法が記さ[0d0a]れた本。相手の生命力を吸い取る。。[0d0a]|Contains Energy Drain:{0d0a}Absorb an enemy's life force.{0d0a}
+0x867000|《ヒールライト》の魔法が記された[0d0a]本。聖なる光で傷を癒す。[0d0a]|Contains Healing Light:{0d0a}Heal wounds with holy light.{0d0a}
+0x867800|《キュアーヒール》の魔法が記され[0d0a]た本。身体の異常を治す。[0d0a]|Contains Cure Heal: Cure{0d0a}the body of abnormalities.{0d0a}
+0x868000|《リムーブカース》の魔法が記され[0d0a]た本。かけられた呪いを解く。[0d0a]|Contains Purification:{0d0a}Dispels lingering curses.{0d0a}
+0x868800|《レイズ・デッド》の魔法が記され[0d0a]た本。気絶者を戦闘に復帰させる。[0d0a]|Contains Life Bringer: Bring a{0d0a}fallen ally back into battle.{0d0a}
+0x869000|《スリープ》の魔法が記された本。[0d0a]相手を眠らせる。[0d0a]|Contains Sleep:{0d0a}Put enemies to sleep.{0d0a}
+0x869800|《アタックアップ》の魔法が記され[0d0a]た本。攻撃力が一時的に上昇。[0d0a]|Contains Attack Up:{0d0a}Temporarily raise ATP.{0d0a}
+0x86a000|《ガードアップ》の魔法が記された[0d0a]本。守備力が一時的に上昇。[0d0a]|Contains Defense Up:{0d0a}Temporarily raises DFP.{0d0a}
+0x86a800|《マジックアップ》の魔法が記され[0d0a]た本。魔法攻撃力が一時的に上昇。[0d0a]|Contains Magic Up:{0d0a}Temporarily raises MGP.{0d0a}
+0x86b000|《マジックガード》の魔法が記され[0d0a]た本。魔法に対する防御力が上昇。[0d0a]|Contains Magic Guard:{0d0a}Raises MGD.{0d0a}
+0x86b800|《スピードアップ》の魔法が記され[0d0a]た本。行動速度を上昇させる。[0d0a]|Contains Speed Up:{0d0a}Raises ATS.{0d0a}
+0x86c000|《スローダウン》の魔法が記された[0d0a]本。行動速度を低下させる。[0d0a]|Contains Slow Down:{0d0a}Lowers ATS.{0d0a}
+0x86c800|霊峰の里の魔導霊士によって作られ[0d0a]た護符。魔の威力を軽減する。[0d0a]|A charm crafted by a{0d0a}spirit mage. RES Magic.{0d0a}
+0x86d000|霊峰の里の魔導霊士によって作られ[0d0a]た護符。地の威力を軽減する。[0d0a]|A charm crafted by a{0d0a}spirit mage. RES Earth.{0d0a}
+0x86d800|霊峰の里の魔導霊士によって作られ[0d0a]た護符。水の威力を軽減する。[0d0a]|A charm crafted by a{0d0a}spirit mage. RES Water.{0d0a}
+0x86e000|霊峰の里の魔導霊士によって作られ[0d0a]た護符。風の威力を軽減する。[0d0a]|A charm crafted by a{0d0a}spirit mage. RES Wind.{0d0a}
+0x86e800|霊峰の里の魔導霊士によって作られ[0d0a]た護符。氷の威力を軽減する。[0d0a]|A charm crafted by a{0d0a}spirit mage. RES Ice.{0d0a}
+0x86f000|創造神《アフロディテ》の加護を受[0d0a]けた護符。聖なる護りを得る。[0d0a]|A charm blessed with{0d0a}divine protection. RES Holy.{0d0a}
+0x86f800|聖なる海流の下流、混沌の流れです[0d0a]いた紙で作った護符。闇属性。[0d0a]|A paper charm made downstream{0d0a}from the holy Mere.{0d0a}
+0x870000|流星の破片を剣に加工した物。常に[0d0a]炎のような気が揺らめいている。[0d0a]|A sword made from a falling{0d0a}star piece. Flickers warmly.{0d0a}
+0x870800|高価な布地を惜しげなく使ったぜい[0d0a]たくなローブ。[0d0a]|An extravagant robe made with{0d0a}heaps of expensive fabric.{0d0a}
+0x871000|騎士見習いが、基本的な剣技を修得[0d0a]する為に使う剣。命中率が高い。[0d0a]|A sword used by knights-in-{0d0a}training. High accuracy.{0d0a}
+0x871800|虹色の鉱石を加工して作った希少な[0d0a]指輪。回避率上昇。ＤＥＸ＋１５[0d0a]|A rare ring made with rainbow{0d0a}ore. Evasion up. DEX + 15.{0d0a}
+0x872000|ありがとうございました！！[0d0a]他に何かございませんか・・？[0d0a]|Thank you very much!{0d0a}Anything else I can help with?{0d0a}
+0x872800|《魔属性・中》標的を空間の歪みに[0d0a]弾き出しダメージを与える。[0d0a]|[MAGIC/MID] Damage a target by{0d0a}warping them through space.{0d0a}
+0x873000|《魔属性・強》標的の精神を揺さぶ[0d0a]り破壊する攻撃魔法。[0d0a]|[MAGIC/STR] Shock and destroy{0d0a}a target's mind.{0d0a}
+0x873800|《魔属性・弱》自身の魔力を球状に[0d0a]変えて解き放つ攻撃魔法。[0d0a]|[MAGIC/WK] Convert your magic{0d0a}into a ball and release it.{0d0a}
+0x874000|《地属性・中》魔力で岩を槍状に変[0d0a]化させ標的に放つ攻撃魔法。[0d0a]|[EARTH/MID] Convert your magic{0d0a}into a launching rock spear.{0d0a}
+0x874800|《地属性・中》石つぶてを操り標的[0d0a]の頭上に降らせる攻撃魔法。[0d0a]|[EARTH/MID] Rain stones upon{0d0a}a target's head.{0d0a}
+0x875000|《水属性・弱》地面から熱湯を吹き[0d0a]出させ、標的に火傷を負わせる。[0d0a]|[WATER/WK] Scald a target with{0d0a}boiling water from the ground.{0d0a}
+0x875800|《水属性・中》巨大な水泡を大量に[0d0a]作り出し標的を包み込む攻撃魔法。[0d0a]|[WATER/MID] Bombard a target{0d0a}with a bubble barrage.{0d0a}
+0x876000|《火属性・弱》標的の下に描いた魔[0d0a]法陣で地獄の炎を召喚し攻撃する。[0d0a]|[FIRE/WK] Invoke fire from the{0d0a}hells with a summoning circle.{0d0a}
+0x876800|《火属性・中》炎の粒子を標的に向[0d0a]けて放ち大爆発を起こす攻撃魔法。[0d0a]|[FIRE/MID] Fire a combustible{0d0a}ember at a target.{0d0a}
+0x877000|《火属性・強》燃えさかるすい星を[0d0a]召喚し標的を倒す攻撃魔法。[0d0a]|[FIRE/STR] Summon a blazing{0d0a}comet upon a target.
+0x877800|《風属性・弱》戦場に真空の竜巻を[0d0a]発生させ標的を切り裂く攻撃魔法。[0d0a]|[WIND/WK] Cut up a target{0d0a}with a whirling current.{0d0a}
+0x878000|《風属性・強》巨大な渦潮で標的を[0d0a]巻き込みダメージを与える。[0d0a]|[WIND/STR] Swallow a target in{0d0a}a massive, raging whirlpool.{0d0a}
+0x878800|《雷属性・中》帯状の電流を標的に[0d0a]放ちマヒさせる攻撃魔法。[0d0a]|[ELEC/MID] Paralyze with a{0d0a}bolt of electricity.{0d0a}
+0x879000|《雷属性・強》蒼く輝く大いなる雷[0d0a]で全ての敵を打ち倒す攻撃魔法。[0d0a]|[ELEC/STR] Extinguish all{0d0a}with great blue lightning.{0d0a}
+0x879800|《冷属性・中》一定範囲の海水の温[0d0a]度を急激に下げ敵を凍らせる。[0d0a]|[ICE/MID] Freeze foes by{0d0a}rapidly chilling the water.{0d0a}
+0x87a000|《冷属性・強》氷山の氷を破壊し、[0d0a]その欠片で標的を押し潰す。[0d0a]|[ICE/STR] Crush a target with{0d0a}a piece of a glacier.{0d0a}
+0x87a800|《聖属性・弱》聖なる光を一点に集[0d0a]め標的に向かって解き放つ。[0d0a]|[HOLY/WK] Release focused holy{0d0a}light on a target.{0d0a}
+0x87b000|《聖属性・強》創造神の持つ全てを[0d0a]浄化する剣を呼び出し攻撃する。[0d0a]|[HOLY/STR] Purify all creation{0d0a}with a summoned sword.{0d0a}
+0x87b800|《闇属性・中》標的の魔法力を吸い[0d0a]取り自分のものにする。[0d0a]|[DARK/MID] Absorb a target's{0d0a}magic power for yourself.{0d0a}
+0x87c000|《闇属性・弱》霊界につなるドアを召喚して、そこ[0d0a]から沢山の霊を解き放つ魔法。[0d0a]|[DARK/WK] Release an army of{0d0a}ghosts from the hells.{0d0a}
+0x87c800|《闇属性・中》敵の生命力を吸収し[0d0a]自分のものにする魔法。[0d0a]|[DARK/MID] Absorb a foe's{0d0a}vitality for yourself.{0d0a}
+0x87d000|《回復系》聖なる光の力を借りて、[0d0a]傷ついた者を癒やす神聖魔法。[0d0a]|[HEALING] Heal a wounded{0d0a}target with holy light.{0d0a}
+0x87d800|《回復系》身体に異常をきたした者[0d0a]を元の健康な状態に戻す。[0d0a]|[HEALING] Clear a target's{0d0a}negative effects.{0d0a}
+0x87e000|《回復系》マリンスノーの聖なる力[0d0a]を借りて呪われし者を救う魔法。[0d0a]|[HEALING] Purify a cursed{0d0a}target with holy marine snow.{0d0a}
+0x87e800|《蘇生系》聖なる者の力を借りて傷[0d0a]つき倒れた者を蘇生する魔法。[0d0a]|[REVIVAL] Revitalize a fallen{0d0a}combatant with holy power.{0d0a}
+0x87f000|《支援系》幻影の振り子を使って標[0d0a]的を眠らせる戦闘支援魔法。[0d0a]|[SUPPORT] Put a target to{0d0a}sleep with a phantom pendulum.{0d0a}
+0x87f800|《支援系》力の象徴である剣の精霊[0d0a]を召喚し、攻撃力を上昇させる。[0d0a]|[SUPPORT] Raise ATP with a{0d0a}sword, a symbol of power.{0d0a}
+0x880000|《支援系》守の象徴である盾の精霊[0d0a]を召喚し、守備力を上昇させる。[0d0a]|[SUPPORT] Raise DFP with a{0d0a}shield, a symbol of shelter.{0d0a}
+0x880800|《支援系》魔力を増幅させる結界を[0d0a]作り出す戦闘支援魔法。[0d0a]|[SUPPORT] Create a zone that{0d0a}amplifies magic.{0d0a}
+0x881000|《支援系》魔力の壁を作り、魔法に[0d0a]対する抵抗力を高める。[0d0a]|[SUPPORT] Create a wall that{0d0a}resists magic.{0d0a}
+0x881800|《支援系》全ての魔法を反射させる[0d0a]鏡を作り出す戦闘支援魔法。[0d0a]|[SUPPORT] Create a mirror that{0d0a}reflects all magic.{0d0a}
+0x882000|《支援系》時間を操り、指定した相[0d0a]手の行動速度を速める魔法。[0d0a]|[SUPPORT] Manipulate time and{0d0a}raise a target's ATS.{0d0a}
+0x882800|《支援系》時間を操り、指定した相[0d0a]手の行動速度を遅くさせる魔法。[0d0a]|[SUPPORT] Manipulate time and{0d0a}lower a target's ATS.{0d0a}
+0x883000|《基本攻撃技・命中率【高】》[0d0a]目標に斬りかかる。[0d0a]|[BASIC / ACCURACY (HIGH)]{0d0a}Slash at a target.{0d0a}
+0x883800|《基本攻撃技・命中率【高】》[0d0a]目標を叩いて攻撃する。[0d0a]|[BASIC / ACCURACY (HIGH)]{0d0a}Thump a target.{0d0a}
+0x884000|《基本攻撃技・命中率【中】》[0d0a]目標を突いて攻撃する。[0d0a]|[BASIC / ACCURACY (MED)]{0d0a}Pierce a target.{0d0a}
+0x884800|《基本攻撃技・命中率【中】》[0d0a]目標を薙ぎ攻撃する。[0d0a]|[BASIC / ACCURACY (MED)]{0d0a}Horizontally slice a target.{0d0a}
+0x885000|《基本攻撃技・命中率【中】》[0d0a]武器を振り回して敵を攻撃する。[0d0a]|[BASIC / ACCURACY (MED)]{0d0a}Swing your weapon to attack.{0d0a}
+0x885800|《基本攻撃技・命中率【中】》[0d0a]目標を殴りつけて攻撃する。[0d0a]|[BASIC / ACCURACY (MED)]{0d0a}Hit a target really hard.{0d0a}
+0x886000|《基本攻撃技・命中率【中】》[0d0a]肘を曲げ側面にパンチを入れる。[0d0a]|[BASIC / ACCURACY (MED)]{0d0a}Punch from the side.{0d0a}
+0x886800|《基本攻撃技・命中率【低】》[0d0a]下方から上方に拳を繰り出し攻撃。[0d0a]|[BASIC / ACCURACY (LOW)]{0d0a}Punch upwards from below.{0d0a}
+0x887000|《連続攻撃技・命中率【高】》[0d0a]斬る＋斬るの連続攻撃系の技。[0d0a]|[COMBO / ACCURACY (HIGH)]{0d0a}C + C attack.{0d0a}
+0x887800|《連続攻撃技・命中率【中】》[0d0a]斬る＋突くの連続攻撃系の技。[0d0a]|[COMBO / ACCURACY (MED)]{0d0a}C + T attack.{0d0a}
+0x888000|《連続攻撃技・命中率【中】》[0d0a]突く＋斬るの連続攻撃の技。[0d0a]|[COMBO / ACCURACY (MED)]{0d0a}T + C attack.{0d0a}
+0x888800|《連続攻撃技・命中率【中】》[0d0a]突く＋突くの連続攻撃系の技。[0d0a]|[COMBO / ACCURACY (MED)]{0d0a}T + T attack.{0d0a}
+0x889000|《連続攻撃技・命中率【高】》[0d0a]斬る＋斬る＋斬るの３連続技。|[COMBO / ACCURACY (HIGH)]{0d0a}C + C + C attack.{0d0a}
+0x889800|《連続攻撃技・命中率【高】》[0d0a]斬る＋突く＋斬るの３連続技。|[COMBO / ACCURACY (HIGH)]{0d0a}C + T + C attack.{0d0a}
+0x88a000|《連続攻撃技・命中率【中】》[0d0a]斬る＋突く＋突くの３連続技。|[COMBO / ACCURACY (MED)]{0d0a}C + T + T attack.{0d0a}
+0x88a800|《連続攻撃技・命中率【高】》[0d0a]斬る＋斬る＋突くの３連続技。|[COMBO / ACCURACY (HIGH)]{0d0a}C + C + T attack.{0d0a}
+0x88b000|《連続攻撃技・命中率【中】》[0d0a]突く＋突く＋突くの３連続技。|[COMBO / ACCURACY (MED)]{0d0a}T + T + T attack.{0d0a}
+0x88b800|《連続攻撃技・命中率【中】》[0d0a]突く＋突く＋斬るの３連続技。[0d0a]|[COMBO / ACCURACY (MED)]{0d0a}T + T + C attack.{0d0a}
+0x88c000|《連続攻撃技・命中率【中】》[0d0a]突く＋斬る＋突くの３連続技。[0d0a]|[COMBO / ACCURACY (MED)]{0d0a}T + C + T attack.{0d0a}
+0x88c800|《連続攻撃技・命中率【高】》[0d0a]突く＋斬る＋斬るの３連続技。|[COMBO / ACCURACY (HIGH)]{0d0a}T + C + C attack.{0d0a}
+0x88d000|《連続攻撃技・命中率【高】》[0d0a]斬る＋斬る＋斬る＋斬るの技。|[COMBO / ACCURACY (HIGH)]{0d0a}C + C + C + C attack.{0d0a}
+0x88d800|《連続攻撃技・命中率【高】》[0d0a]斬る＋突く＋斬る＋斬るの技。|[COMBO / ACCURACY (HIGH)]{0d0a}C + T + C + C attack.{0d0a}
+0x88e000|《連続攻撃技・命中率【中】》[0d0a]斬る＋突く＋突く＋斬るの技。|[COMBO / ACCURACY (MED)]{0d0a}C + T + T + C attack.{0d0a}
+0x88e800|《連続攻撃技・命中率【中】》[0d0a]斬る＋突く＋突く＋突くの技。[0d0a]|[COMBO / ACCURACY (MED)]{0d0a}C + T + C + C attack.{0d0a}
+0x88f000|《連続攻撃技・命中率【中】》[0d0a]斬る＋突く＋斬る＋突くの技。|[COMBO / ACCURACY (MED)]{0d0a}C + T + C + T attack.{0d0a}
+0x88f800|《連続攻撃技・命中率【高】》[0d0a]斬る＋斬る＋突く＋斬るの技。|[COMBO / ACCURACY (HIGH)]{0d0a}C + C + T + C attack.{0d0a}
+0x890000|《連続攻撃技・命中率【中】》[0d0a]斬る＋斬る＋突く＋突くの技。|[COMBO / ACCURACY (MED)]{0d0a}C + C + T + T attack.{0d0a}
+0x890800|《連続攻撃技・命中率【高】》[0d0a]斬る＋斬る＋斬る＋突くの技。|[COMBO / ACCURACY (HIGH)]{0d0a}C + C + C + T attack.{0d0a}
+0x891000|《連続攻撃技・命中率【中】》[0d0a]突く＋突く＋突く＋突くの技。[0d0a]|[COMBO / ACCURACY (MED)]{0d0a}T + T + T + T attack.{0d0a}
+0x891800|《連続攻撃技・命中率【中】》[0d0a]突く＋斬る＋突く＋突くの技。[0d0a]|[COMBO / ACCURACY (MED)]{0d0a}T + C + T + T attack.{0d0a}
+0x892000|《連続攻撃技・命中率【中】》[0d0a]突く＋斬る＋斬る＋突くの技。|[COMBO / ACCURACY (MED)]{0d0a}T + C + C + T attack.{0d0a}
+0x892800|《連続攻撃技・命中率【高】》[0d0a]突く＋斬る＋斬る＋斬るの技。|[COMBO / ACCURACY (HIGH)]{0d0a}T + C + C + C attack.{0d0a}
+0x893000|《連続攻撃技・命中率【中】》[0d0a]突く＋斬る＋突く＋斬るの技。|[COMBO / ACCURACY (MED)]{0d0a}T + C + T + C attack.{0d0a}
+0x893800|《連続攻撃技・命中率【中】》[0d0a]突く＋突く＋斬る＋突くの技。[0d0a]|[COMBO / ACCURACY (MED)]{0d0a}T + T + C + T attack.{0d0a}
+0x894000|《連続攻撃技・命中率【中】》[0d0a]突く＋突く＋斬る＋斬るの技。|[COMBO / ACCURACY (MED)]{0d0a}T + T + C + C attack.{0d0a}
+0x894800|《連続攻撃技・命中率【中】》[0d0a]突く＋突く＋突く＋斬るの技。|[COMBO / ACCURACY (MED)]{0d0a}T + T + T + C attack.{0d0a}
+0x895000|《連続攻撃技・命中率【中】》[0d0a]突く＋突くの連続攻撃系の技。|[COMBO / ACCURACY (MED)]{0d0a}T + T attack.{0d0a}
+0x895800|《連続攻撃技・命中率【中】》[0d0a]突く＋薙ぐの連続攻撃系の技。|[COMBO / ACCURACY (MED)]{0d0a}T + SWP attack.{0d0a}
+0x896000|《連続攻撃技・命中率【中】》[0d0a]薙ぐ＋薙ぐの連続攻撃系の技。|[COMBO / ACCURACY (MED)]{0d0a}SWP + SWP attack.{0d0a}
+0x896800|《連続攻撃技・命中率【中】》[0d0a]薙ぎ＋突くの連続攻撃系の技。|[COMBO / ACCURACY (MED)]{0d0a}SWP + T attack.{0d0a}
+0x897000|《連続攻撃技・命中率【中】》[0d0a]突く＋突く＋突くの３連続技。|[COMBO / ACCURACY (MED)]{0d0a}T + T + T attack.{0d0a}
+0x897800|《連続攻撃技・命中率【中】》[0d0a]突く＋突く＋薙ぐの３連続技。|[COMBO / ACCURACY (MED)]{0d0a}T + T + SWP attack.{0d0a}
+0x898000|《連続攻撃技・命中率【中】》[0d0a]突く＋薙ぐ＋突くの３連続技。|[COMBO / ACCURACY (MED)]{0d0a}T + SWP + T attack.{0d0a}
+0x898800|《連続攻撃技・命中率【中】》[0d0a]突く＋薙ぐ＋薙ぐの３連続技。|[COMBO / ACCURACY (MED)]{0d0a}T + SWP + SWP attack.{0d0a}
+0x899000|《連続攻撃技・命中率【中】》[0d0a]薙ぐ＋薙ぐ＋薙ぐの３連続技。|[COMBO / ACCURACY (MED)]{0d0a}SWP + SWP + SWP attack.{0d0a}
+0x899800|《連続攻撃技・命中率【中】》[0d0a]薙ぐ＋薙ぐ＋突くの３連続技。|[COMBO / ACCURACY (MED)]{0d0a}SWP + SWP + T attack.{0d0a}
+0x89a000|《連続攻撃技・命中率【中】》[0d0a]薙ぐ＋突く＋薙ぐの３連続技。|[COMBO / ACCURACY (MED)]{0d0a}SWP + T + SWP attack.{0d0a}
+0x89a800|《連続攻撃技・命中率【中】》[0d0a]薙ぐ＋突く＋突く３連続技。|[COMBO / ACCURACY (MED)]{0d0a}SWP + T + T attack.{0d0a}
+0x89b000|《連続攻撃技・命中率【中】》[0d0a]突く＋突く＋突く＋突くの技。|[COMBO / ACCURACY (MED)]{0d0a}T + T + T + T attack.{0d0a}
+0x89b800|《連続攻撃技・命中率【中】》[0d0a]突く＋突く＋突く＋薙ぐの技。|[COMBO / ACCURACY (MED)]{0d0a}T + T + T + SWP attack.{0d0a}
+0x89c000|《連続攻撃技・命中率【中】》[0d0a]突く＋突く＋薙ぐ＋薙ぐの技。|[COMBO / ACCURACY (MED)]{0d0a}T + T + SWP + SWP attack.{0d0a}
+0x89c800|《連続攻撃技・命中率【中】》[0d0a]突く＋突く＋薙ぐ＋突くの技。|[COMBO / ACCURACY (MED)]{0d0a}T + T + SWP + T attack.{0d0a}
+0x89d000|《連続攻撃技・命中率【中】》[0d0a]突く＋薙ぐ＋突く＋薙ぐの技。|[COMBO / ACCURACY (MED)]{0d0a}T + SWP + T + SWP attack.{0d0a}
+0x89d800|《連続攻撃技・命中率【中】》[0d0a]突く＋薙ぐ＋突く＋突くの技。|[COMBO / ACCURACY (MED)]{0d0a}T + SWP + T + T attack.{0d0a}
+0x89e000|《連続攻撃技・命中率【中】》[0d0a]突く＋薙ぐ＋薙ぐ＋薙ぐの技。|[COMBO / ACCURACY (MED)]{0d0a}T + SWP + SWP + SWP attack.{0d0a}
+0x89e800|《連続攻撃技・命中率【中】》[0d0a]突く＋薙ぐ＋薙ぐ＋突くの技。|[COMBO / ACCURACY (MED)]{0d0a}T + SWP + SWP + T attack.{0d0a}
+0x89f000|《連続攻撃技・命中率【中】》[0d0a]薙ぐ＋薙ぐ＋薙ぐ＋薙ぐの技。|[COMBO / ACCURACY (MED)]{0d0a}SWP + SWP + SWP + SWP attack.{0d0a}
+0x89f800|《連続攻撃技・命中率【中】》[0d0a]薙ぐ＋薙ぐ＋薙ぐ＋突くの技。|[COMBO / ACCURACY (MED)]{0d0a}SWP + SWP + SWP + T attack.{0d0a}
+0x8a0000|《連続攻撃技・命中率【中】》[0d0a]薙ぐ＋薙ぐ＋突く＋突くの技。|[COMBO / ACCURACY (MED)]{0d0a}SWP + SWP + T + T attack.{0d0a}
+0x8a0800|《連続攻撃技・命中率【中】》[0d0a]薙ぐ＋薙ぐ＋突く＋薙ぐの技。|[COMBO / ACCURACY (MED)]{0d0a}SWP + SWP + T + SWP attack.{0d0a}
+0x8a1000|《連続攻撃技・命中率【中】》[0d0a]薙ぐ＋突く＋薙ぐ＋突くの技。|[COMBO / ACCURACY (MED)]{0d0a}SWP + T + SWP + T attack.{0d0a}
+0x8a1800|《連続攻撃技・命中率【中】》[0d0a]薙ぐ＋突く＋突く＋突くの技。|[COMBO / ACCURACY (MED)]{0d0a}SWP + T + T + T attack.{0d0a}
+0x8a2000|《連続攻撃技・命中率【中】》[0d0a]薙ぐ＋突く＋突く＋薙ぐの技。|[COMBO / ACCURACY (MED)]{0d0a}SWP + T + T + SWP attack.{0d0a}
+0x8a2800|《連続攻撃技・命中率【中】》[0d0a]薙ぐ＋突く＋薙ぐ＋薙ぐの技。|[COMBO / ACCURACY (MED)]{0d0a}SWP + T + SWP + SWP attack.{0d0a}
+0x8a3000|《連続攻撃技・命中率【高】》[0d0a]斬る＋斬るの連続攻撃系の技。[0d0a]|[COMBO / ACCURACY (HIGH)]{0d0a}C + C attack.{0d0a}
+0x8a3800|《連続攻撃技・命中率【中】》[0d0a]斬る＋振るの連続攻撃系の技。|[COMBO / ACCURACY (MED)]{0d0a}C + SWG attack.{0d0a}
+0x8a4000|《連続攻撃技・命中率【中】》[0d0a]振る＋振るの連続攻撃系の技。|[COMBO / ACCURACY (MED)]{0d0a}SWG + SWG attack.{0d0a}
+0x8a4800|《連続攻撃技・命中率【中】》[0d0a]振る＋斬るの連続攻撃系の技。|[COMBO / ACCURACY (MED)]{0d0a}SWG + C attack.{0d0a}
+0x8a5000|《連続攻撃技・命中率【高】》[0d0a]斬る＋斬る＋斬るの３連続技。|[COMBO / ACCURACY (HIGH)]{0d0a}C + C + C attack.{0d0a}
+0x8a5800|《連続攻撃技・命中率【高】》[0d0a]斬る＋斬る＋振るの３連続技。|[COMBO / ACCURACY (HIGH)]{0d0a}C + C + SWG attack.{0d0a}
+0x8a6000|《連続攻撃技・命中率【中】》[0d0a]斬る＋振る＋振るの３連続技。|[COMBO / ACCURACY (MED)]{0d0a}C + SWG + SWG attack.{0d0a}
+0x8a6800|《連続攻撃技・命中率【高】》[0d0a]斬る＋振る＋斬るの３連続技。|[COMBO / ACCURACY (HIGH)]{0d0a}C + SWG + C attack.{0d0a}
+0x8a7000|《連続攻撃技・命中率【中】》[0d0a]振る＋振る＋振るの３連続技。|[COMBO / ACCURACY (MED)]{0d0a}SWG + SWG + SWG attack.{0d0a}
+0x8a7800|《連続攻撃技・命中率【中】》[0d0a]振る＋振る＋斬るの３連続技。|[COMBO / ACCURACY (MED)]{0d0a}SWG + SWG + C attack.{0d0a}
+0x8a8000|《連続攻撃技・命中率【高】》[0d0a]振る＋斬る＋斬るの３連続技。|[COMBO / ACCURACY (HIGH)]{0d0a}SWG + C + C attack.{0d0a}
+0x8a8800|《連続攻撃技・命中率【中】》[0d0a]振る＋斬る＋振るの３連続技。|[COMBO / ACCURACY (MED)]{0d0a}SWG + C + SWG attack.{0d0a}
+0x8a9000|《連続攻撃技・命中率【高】》[0d0a]斬る＋斬る＋斬る＋斬るの技。|[COMBO / ACCURACY (HIGH)]{0d0a}C + C + C + C attack.{0d0a}
+0x8a9800|《連続攻撃技・命中率【高】》[0d0a]斬る＋斬る＋斬る＋振るの技。|[COMBO / ACCURACY (HIGH)]{0d0a}C + C + C + SWG attack.{0d0a}
+0x8aa000|《連続攻撃技・命中率【中】》[0d0a]斬る＋斬る＋振る＋振るの技。|[COMBO / ACCURACY (MED)]{0d0a}C + C + SWG + SWG attack.{0d0a}
+0x8aa800|《連続攻撃技・命中率【高】》[0d0a]斬る＋斬る＋振る＋斬るの技。|[COMBO / ACCURACY (HIGH)]{0d0a}C + C + SWG + C attack.{0d0a}
+0x8ab000|《連続攻撃技・命中率【中】》[0d0a]斬る＋振る＋斬る＋振るの技。|[COMBO / ACCURACY (MED)]{0d0a}C + SWG + C + SWG attack.{0d0a}
+0x8ab800|《連続攻撃技・命中率【中】》[0d0a]斬る＋振る＋振る＋振るの技。|[COMBO / ACCURACY (MED)]{0d0a}C + SWG + SWG + SWG attack.{0d0a}
+0x8ac000|《連続攻撃技・命中率【中】》[0d0a]斬る＋振る＋振る＋斬るの技。|[COMBO / ACCURACY (MED)]{0d0a}C + SWG + SWG + C attack.{0d0a}
+0x8ac800|《連続攻撃技・命中率【高】》[0d0a]斬る＋振る＋斬る＋斬るの技。|[COMBO / ACCURACY (HIGH)]{0d0a}C + SWG + C + C attack.{0d0a}
+0x8ad000|《連続攻撃技・命中率【中】》[0d0a]振る＋振る＋振る＋振るの技。|[COMBO / ACCURACY (MED)]{0d0a}SWG + SWG + SWG + SWG attack.{0d0a}
+0x8ad800|《連続攻撃技・命中率【中】》[0d0a]振る＋振る＋振る＋斬るの技。|[COMBO / ACCURACY (MED)]{0d0a}SWG + SWG + SWG + C attack.{0d0a}
+0x8ae000|《連続攻撃技・命中率【中】》[0d0a]振る＋振る＋斬る＋斬るの技。|[COMBO / ACCURACY (MED)]{0d0a}SWG + SWG + C + C attack.{0d0a}
+0x8ae800|《連続攻撃技・命中率【中】》[0d0a]振る＋振る＋斬る＋振るの技。|[COMBO / ACCURACY (MED)]{0d0a}SWG + SWG + C + SWG attack.{0d0a}
+0x8af000|《連続攻撃技・命中率【中】》[0d0a]振る＋斬る＋振る＋斬るの技。|[COMBO / ACCURACY (MED)]{0d0a}SWG + C + SWG + C attack.{0d0a}
+0x8af800|《連続攻撃技・命中率【高】》[0d0a]振る＋斬る＋斬る＋斬るの技。|[COMBO / ACCURACY (HIGH)]{0d0a}SWG + C + C + C attack.{0d0a}
+0x8b0000|《連続攻撃技・命中率【中】》[0d0a]振る＋斬る＋斬る＋振るの技。|[COMBO / ACCURACY (MED)]{0d0a}SWG + C + C + SWG attack.{0d0a}
+0x8b0800|《連続攻撃技・命中率【高】》[0d0a]叩く＋叩くの連続攻撃系の技。|[COMBO / ACCURACY (HIGH)]{0d0a}B + B attack.{0d0a}
+0x8b1000|《連続攻撃技・命中率【中】》[0d0a]叩く＋突くの連続攻撃系の技。|[COMBO / ACCURACY (MED)]{0d0a}B + T attack.{0d0a}
+0x8b1800|《連続攻撃技・命中率【中】》[0d0a]突く＋突くの連続攻撃系の技。|[COMBO / ACCURACY (MED)]{0d0a}T + T attack.{0d0a}
+0x8b2000|《連続攻撃技・命中率【中】》[0d0a]突く＋叩くの連続攻撃系の技。|[COMBO / ACCURACY (MED)]{0d0a}T + B attack.{0d0a}
+0x8b2800|《連続攻撃技・命中率【高】》[0d0a]叩く＋叩く＋叩くの３連続技。|[COMBO / ACCURACY (HIGH)]{0d0a}B + B + B attack.{0d0a}
+0x8b3000|《連続攻撃技・命中率【高】》[0d0a]叩く＋叩く＋突くの３連続技。|[COMBO / ACCURACY (HIGH)]{0d0a}B + B + T attack.{0d0a}
+0x8b3800|《連続攻撃技・命中率【中】》[0d0a]叩く＋突く＋突くの３連続技。|[COMBO / ACCURACY (MED)]{0d0a}B + T + T attack.{0d0a}
+0x8b4000|《連続攻撃技・命中率【高】》[0d0a]叩く＋突く＋叩くの３連続技。|[COMBO / ACCURACY (HIGH)]{0d0a}B + T + B attack.{0d0a}
+0x8b4800|《連続攻撃技・命中率【中】》[0d0a]突く＋突く＋突くの３連続技。|[COMBO / ACCURACY (MED)]{0d0a}T + T + T attack.{0d0a}
+0x8b5000|《連続攻撃技・命中率【中】》[0d0a]突く＋突く＋叩くの３連続技。|[COMBO / ACCURACY (MED)]{0d0a}T + T + B attack.{0d0a}
+0x8b5800|《連続攻撃技・命中率【高】》[0d0a]突く＋叩く＋叩くの３連続技。|[COMBO / ACCURACY (HIGH)]{0d0a}T + B + B attack.{0d0a}
+0x8b6000|《連続攻撃技・命中率【中】》[0d0a]突く＋叩く＋突くの３連続技。 |[COMBO / ACCURACY (MED)]{0d0a}T + B + T attack.{0d0a}
+0x8b6800|《連続攻撃技・命中率【高】》[0d0a] 叩く＋叩く＋叩く＋叩くの技。|[COMBO / ACCURACY (HIGH)]{0d0a}B + B + B + B attack.{0d0a}
+0x8b7000|《連続攻撃技・命中率【高】》[0d0a]叩く＋叩く＋叩く＋突くの技。|[COMBO / ACCURACY (HIGH)]{0d0a}B + B + B + T attack.{0d0a}
+0x8b7800|《連続攻撃技・命中率【中】》[0d0a]叩く＋叩く＋突く＋突くの技。|[COMBO / ACCURACY (MED)]{0d0a}B + B + T + T attack.{0d0a}
+0x8b8000|《連続攻撃技・命中率【高】》[0d0a]叩く＋叩く＋突く＋叩くの技。|[COMBO / ACCURACY (HIGH)]{0d0a}B + B + T + B attack.{0d0a}
+0x8b8800|《連続攻撃技・命中率【中】》[0d0a]叩く＋突く＋叩く＋突くの技。 |[COMBO / ACCURACY (MED)]{0d0a}B + T + B + T attack.{0d0a}
+0x8b9000|《連続攻撃技・命中率【中】》[0d0a]叩く＋突く＋突く＋突くの技。 |[COMBO / ACCURACY (MED)]{0d0a}B + T + T + T attack.{0d0a}
+0x8b9800|《連続攻撃技・命中率【高】》[0d0a]叩く＋突く＋叩く＋叩くの技。|[COMBO / ACCURACY (HIGH)]{0d0a}B + T + B + B attack.{0d0a}
+0x8ba000|《連続攻撃技・命中率【中】》[0d0a]叩く＋突く＋突く＋叩くの技。 |[COMBO / ACCURACY (MED)]{0d0a}B + T + T + B attack.{0d0a}
+0x8ba800|《連続攻撃技・命中率【中】》[0d0a]突く＋突く＋突く＋突くの技。 |[COMBO / ACCURACY (MED)]{0d0a}T + T + T + T attack.{0d0a}
+0x8bb000|《連続攻撃技・命中率【中】》[0d0a]突く＋突く＋突く＋叩くの技。 |[COMBO / ACCURACY (MED)]{0d0a}T + T + T + B attack.{0d0a}
+0x8bb800|《連続攻撃技・命中率【中】》[0d0a]突く＋突く＋叩く＋叩くの技。 |[COMBO / ACCURACY (MED)]{0d0a}T + T + B + B attack.{0d0a}
+0x8bc000|《連続攻撃技・命中率【中】》[0d0a]突く＋突く＋叩く＋突くの技。 |[COMBO / ACCURACY (MED)]{0d0a}T + T + B + T attack.{0d0a}
+0x8bc800|《連続攻撃技・命中率【中】》[0d0a]突く＋叩く＋突く＋叩くの技。 |[COMBO / ACCURACY (MED)]{0d0a}T + B + T + B attack.{0d0a}
+0x8bd000|《連続攻撃技・命中率【高】》[0d0a]突く＋叩く＋叩く＋叩くの技。 |[COMBO / ACCURACY (HIGH)]{0d0a}T + B + B + B attack.{0d0a}
+0x8bd800|《連続攻撃技・命中率【中】》[0d0a]突く＋叩く＋叩く＋突くの技。 |[COMBO / ACCURACY (MED)]{0d0a}T + B + B + T attack.{0d0a}
+0x8be000|《連続攻撃技・命中率【中】》[0d0a]突く＋叩く＋突く＋突くの技。 |[COMBO / ACCURACY (MED)]{0d0a}T + B + T + T attack.{0d0a}
+0x8be800|《連続攻撃技・命中率【高】》[0d0a]叩く＋叩くの連続攻撃系の技。 |[COMBO / ACCURACY (HIGH)]{0d0a}B + B attack.{0d0a}
+0x8bf000|《連続攻撃技・命中率【中】》[0d0a]叩く＋振るの連続攻撃系の技。 |[COMBO / ACCURACY (MED)]{0d0a}B + SWG attack.{0d0a}
+0x8bf800|《連続攻撃技・命中率【中】》[0d0a]振る＋振るの連続攻撃系の技。 |[COMBO / ACCURACY (MED)]{0d0a}SWG + SWG attack.{0d0a}
+0x8c0000|《連続攻撃技・命中率【中】》[0d0a]振る＋叩くの連続攻撃系の技。 |[COMBO / ACCURACY (MED)]{0d0a}SWG + B attack.{0d0a}
+0x8c0800|《連続攻撃技・命中率【高】》[0d0a]叩く＋叩く＋叩くの３連続技。|[COMBO / ACCURACY (HIGH)]{0d0a}B + B + B attack.{0d0a}
+0x8c1000|《連続攻撃技・命中率【高】》[0d0a]叩く＋叩く＋振るの３連続技。 |[COMBO / ACCURACY (HIGH)]{0d0a}B + B + SWG attack.{0d0a}
+0x8c1800|《連続攻撃技・命中率【中】》[0d0a]叩く＋振る＋振るの３連続技。 |[COMBO / ACCURACY (MED)]{0d0a}B + SWG + SWG attack.{0d0a}
+0x8c2000|《連続攻撃技・命中率【高】》[0d0a]叩く＋振る＋叩くの３連続技。 |[COMBO / ACCURACY (HIGH)]{0d0a}B + SWG + B attack.{0d0a}
+0x8c2800|《連続攻撃技・命中率【中】》[0d0a]振る＋振る＋振るの３連続技。 |[COMBO / ACCURACY (MED)]{0d0a}SWG + SWG + SWG attack.{0d0a}
+0x8c3000|《連続攻撃技・命中率【中】》[0d0a]振る＋振る＋叩くの３連続技。 |[COMBO / ACCURACY (MED)]{0d0a}SWG + SWG + B attack.{0d0a}
+0x8c3800|《連続攻撃技・命中率【高】》[0d0a]振る＋叩く＋叩くの３連続技。 |[COMBO / ACCURACY (HIGH)]{0d0a}SWG + B + B attack.{0d0a}
+0x8c4000|《連続攻撃技・命中率【中】》[0d0a]振る＋叩く＋振るの３連続技。 |[COMBO / ACCURACY (MED)]{0d0a}SWG + B + SWG attack.{0d0a}
+0x8c4800|《連続攻撃技・命中率【高】》[0d0a]叩く＋叩く＋叩く＋叩くの技。 |[COMBO / ACCURACY (HIGH)]{0d0a}B + B + B + B attack.{0d0a}
+0x8c5000|《連続攻撃技・命中率【高】》[0d0a]叩く＋叩く＋叩く＋振るの技。 |[COMBO / ACCURACY (HIGH)]{0d0a}B + B + B + SWG attack.{0d0a}
+0x8c5800|《連続攻撃技・命中率【中】》[0d0a]叩く＋叩く＋振る＋振るの技。 |[COMBO / ACCURACY (MED)]{0d0a}B + B + SWG + SWG attack.{0d0a}
+0x8c6000|《連続攻撃技・命中率【高】》[0d0a]叩く＋叩く＋振る＋叩くの技。 |[COMBO / ACCURACY (HIGH)]{0d0a}B + B + SWG + B attack.{0d0a}
+0x8c6800|《連続攻撃技・命中率【中】》[0d0a]叩く＋振る＋叩く＋振るの技。 |[COMBO / ACCURACY (MED)]{0d0a}B + SWG + B + SWG attack.{0d0a}
+0x8c7000|《連続攻撃技・命中率【高】》[0d0a]叩く＋振る＋叩く＋叩くの技。 |[COMBO / ACCURACY (HIGH)]{0d0a}B + SWG + B + B attack.{0d0a}
+0x8c7800|《連続攻撃技・命中率【中】》[0d0a]叩く＋振る＋振る＋叩くの技。 |[COMBO / ACCURACY (MED)]{0d0a}B + SWG + SWG + B attack.{0d0a}
+0x8c8000|《連続攻撃技・命中率【中】》[0d0a]叩く＋振る＋振る＋振るの技。 |[COMBO / ACCURACY (MED)]{0d0a}B + SWG + SWG + SWG attack.{0d0a}
+0x8c8800|《連続攻撃技・命中率【中】》[0d0a]振る＋振る＋振る＋振るの技。 |[COMBO / ACCURACY (MED)]{0d0a}SWG + SWG + SWG + SWG attack.{0d0a}
+0x8c9000|《連続攻撃技・命中率【中】》[0d0a]振る＋振る＋振る＋叩くの技。 |[COMBO / ACCURACY (MED)]{0d0a}SWG + SWG + SWG + B attack.{0d0a}
+0x8c9800|《連続攻撃技・命中率【中】》[0d0a]振る＋振る＋叩く＋叩くの技。 |[COMBO / ACCURACY (MED)]{0d0a}SWG + SWG + B + B attack.{0d0a}
+0x8ca000|《連続攻撃技・命中率【中】》[0d0a]振る＋振る＋叩く＋振るの技。 |[COMBO / ACCURACY (MED)]{0d0a}SWG + SWG + B + SWG attack.{0d0a}
+0x8ca800|《連続攻撃技・命中率【中】》[0d0a]振る＋叩く＋振る＋叩くの技。 |[COMBO / ACCURACY (MED)]{0d0a}SWG + B + SWG + B attack.{0d0a}
+0x8cb000|《連続攻撃技・命中率【高】》[0d0a]振る＋叩く＋叩く＋叩くの技。 |[COMBO / ACCURACY (HIGH)]{0d0a}SWG + B + B + B attack.{0d0a}
+0x8cb800|《連続攻撃技・命中率【中】》[0d0a]振る＋叩く＋叩く＋振るの技。 |[COMBO / ACCURACY (MED)]{0d0a}SWG + B + B + SWG attack.{0d0a}
+0x8cc000|《連続攻撃技・命中率【中】》[0d0a]振る＋叩く＋振る＋振るの技。 |[COMBO / ACCURACY (MED)]{0d0a}SWG + B + SWG + SWG attack.{0d0a}
+0x8cc800|《連続攻撃技・命中率【中】》[0d0a]パンチ＋パンチの連続攻撃技。 |[COMBO / ACCURACY (MED)]{0d0a}P + P attack.{0d0a}
+0x8cd000|《連続攻撃技・命中率【中】》[0d0a]パンチ＋フックの連続攻撃技。 |[COMBO / ACCURACY (MED)]{0d0a}P + H attack.{0d0a}
+0x8cd800|《連続攻撃技・命中率【中】》[0d0a]パンチ＋アッパーの連続技。 |[COMBO / ACCURACY (MED)]{0d0a}P + U attack.{0d0a}
+0x8ce000|《連続攻撃技・命中率【中】》[0d0a]フック＋フックの連続攻撃技。 |[COMBO / ACCURACY (MED)]{0d0a}H + H attack.{0d0a}
+0x8ce800|《連続攻撃技・命中率【中】》[0d0a]フック＋パンチの連続攻撃技。 |[COMBO / ACCURACY (MED)]{0d0a}H + P attack.{0d0a}
+0x8cf000|《連続攻撃技・命中率【中】》[0d0a]フック＋アッパーの連続技。 |[COMBO / ACCURACY (MED)]{0d0a}H + U attack.{0d0a}
+0x8cf800|《連続攻撃技・命中率【低】》[0d0a]アッパー＋アッパーの連続技。 |[COMBO / ACCURACY (LOW)]{0d0a}U + U attack.{0d0a}
+0x8d0000|《連続攻撃技・命中率【中】》[0d0a]アッパー＋パンチの連続技。 |[COMBO / ACCURACY (MED)]{0d0a}U + P attack.{0d0a}
+0x8d0800|《連続攻撃技・命中率【中】》[0d0a]アッパー＋フックの連続技。 |[COMBO / ACCURACY (MED)]{0d0a}U + H attack.{0d0a}
+0x8d1000|《連続攻撃技・命中率【中】》[0d0a]パンチ＋パンチ＋パンチの技。 |[COMBO / ACCURACY (MED)]{0d0a}P + P + P attack.{0d0a}
+0x8d1800|《連続攻撃技・命中率【中】》[0d0a]フック＋フック＋フックの技。 |[COMBO / ACCURACY (MED)]{0d0a}H + H + H attack.{0d0a}
+0x8d2000|《連続攻撃技・命中率【低】》[0d0a]Ａ（アッパー）＋Ａ＋Ａの技。 |[COMBO / ACCURACY (LOW)]{0d0a}U + U + U attack.{0d0a}
+0x8d2800|《必殺技・単体》炎のごとくに燃え[0d0a]る紅い閃光が敵を焼き尽くす。[0d0a]|[UNIT] Incinerate a foe{0d0a}with a flame red flash.{0d0a}
+0x8d3000|《必殺技・単体》電気を帯びた魔力[0d0a]弾を投げつけ大爆発を起こさせる。[0d0a]|[UNIT] Hurl an exploding{0d0a}electric ball.{0d0a}
+0x8d3800|《必殺技・単体》高速の剣撃から生[0d0a]まれる光の刃が、敵を斬り裂く。[0d0a]|[UNIT] Rend a foe with a{0d0a}high speed light blade attack.{0d0a}
+0x8d4000|《必殺技・単体》研ぎ澄まされた気[0d0a]を敵めがけて放つ必殺技。[0d0a]|[UNIT] Hone your mana and{0d0a}direct it at a foe.{0d0a}
+0x8d4800|《必殺技・単体》海に満ちた《気》[0d0a]を拳に集中し標的に向けて発する。[0d0a]|[UNIT] Concentrate the sea's{0d0a}mana into a blast.{0d0a}
+0x8d5000|《必殺技・単体》体内で練り上げた[0d0a]《気》を乱反射させ敵を討つ。[0d0a]|[UNIT] Attack a foe by{0d0a}diffusing your inner mana.{0d0a}
+0x8d5800|《必殺技・全体》聖なる海流に秘め[0d0a]られし力を炎に変え敵を討つ。[0d0a]|[TEAM] Attack with a flame of{0d0a}the holy Mere's power.{0d0a}
+0x8d6000|《必殺技・単体》大地の精霊タイタ[0d0a]ンの剣を召喚、敵を斬りつける。[0d0a]|[UNIT] Slice a foe with{0d0a}an earth Titan's sword.{0d0a}
+0x8d6800|《必殺技・単体》光の屈折を利用、[0d0a]己の姿を透明にし敵の目を眩ます。[0d0a]|[UNIT] Bend light and turn{0d0a}invisible, overwhelming a foe.{0d0a}
+0x8d7000|《必殺技・単体》鋭い剣さばきで海[0d0a]流から渦を発生させ敵を巻き込む。|[UNIT] Engulf a foe in a{0d0a}vortex of sharp sword swipes.{0d0a}
+0x8d7800|《必殺技・全体》剣の中に宿らせた[0d0a]《気》を解き放ち大爆発を起こす。[0d0a]|[TEAM] Release mana from your{0d0a}sword for an explosion.{0d0a}
+0x8d8000|《必殺技・単体》手にした武器で、[0d0a]相手にノックを浴びせる攻撃技。[0d0a]|[UNIT] Knock a foe down{0d0a}with a practice swing.{0d0a}
+0x8d8800|《必殺技・単体》《聖杯》を召喚し[0d0a]内に満ちた聖流で敵を洗い流す。[0d0a]|[UNIT] Fill the Holy Grail{0d0a}with Mere and wash a foe away.{0d0a}
+0x8d9000|《必殺技・単体》敵を挑発、自分の[0d0a]側におびき寄せ攻撃する。[0d0a][0d0a]|[UNIT] Taunt a foe to lure{0d0a}them in close for an attack.{0d0a}
+0x8d9800|《必殺技・単体》銀色に輝く十字の[0d0a]剣撃が、敵を斬り裂く。[0d0a]|[UNIT] Cleave a foe with a{0d0a}lashing silver cross attack.{0d0a}
+0x8da000|《必殺技・単体》敵の背後に回り込[0d0a]み急所を槍で一突きする。[0d0a]|[UNIT] Maneuver behind a foe{0d0a}and stab them in the vitals.{0d0a}
+0x8da800|《必殺技・単体》素早い剣撃で半月[0d0a]形の流れを作り敵を押し流す。[0d0a]|[UNIT] Quickly strike a foe{0d0a}with a crescent stream.{0d0a}
+0x8db000|《必殺技・単体》敵の懐に飛び込み[0d0a]心臓を奪い去り、砕く。[0d0a]|[UNIT] Reach into a foe's{0d0a}chest and crush their heart.{0d0a}
+0x8db800|《必殺技・単体》敵陣にバベルの塔[0d0a]を召喚し聖なる雷で打ち砕く。[0d0a]|[UNIT] Strike with a holy{0d0a}flash from the Tower of Babel.{0d0a}
+0x8dc000|《必殺技・単体》剣の一振りが生み[0d0a]出す波動弾が敵を打ちのめす。[0d0a]|[UNIT] Lunge balls of force{0d0a}at a foe in one swing.{0d0a}
+0x8dc800|《必殺技・単体》素早い剣の一振り[0d0a]が出す閃光の刃が敵を斬り裂く。[0d0a]|[UNIT] Cut down a foe in{0d0a}one swift flash of the blade.{0d0a}
+0x8dd000|《必殺技・単体》落ちてくるすい星[0d0a]のような勢いで敵に突撃する。[0d0a]|[UNIT] Charge a foe with the{0d0a}speed of a descending comet.{0d0a}
+0x8dd800|《必殺技・単体》念動力で標的を操[0d0a]り海底の岩盤に叩きつける。[0d0a]|[UNIT] Telekinetically slam{0d0a}a foe into the seafloor.{0d0a}
+0x8de000|《必殺技・単体》疑似餌を使って敵[0d0a]を釣り上げ、斬りつける。[0d0a]|[UNIT] Reel a foe in with{0d0a}a fishing lure and strike.{0d0a}
+0x8de800|《必殺技・単体》目にも止まらぬ素[0d0a]早い剣撃で標的を十字に斬り裂く。[0d0a]|[UNIT] Shred a foe with{0d0a}a rapid cross attack.{0d0a}
+0x8df000|《必殺技・単体》敵を魔法の風船に[0d0a]閉じこめ割れる時に衝撃を与える。[0d0a]|[UNIT] Trap a foe in a{0d0a}balloon and pop to shock them.{0d0a}
+0x8df800|《必殺技・単体》空間移動で背後に[0d0a]回り込み投げ叩きつける。[0d0a]|[UNIT] Maneuver behind a foe{0d0a}and chuck them.{0d0a}
+0x8e0000|《必殺技・単体》《気》で作った槍[0d0a]で敵を縫いつけ殴りかかる。[0d0a]|[UNIT] Nail a foe with mana{0d0a}spears and beat them up.{0d0a}
+0x8e0800|《必殺技・単体》敵の周囲を高速で[0d0a]泳ぎながら連続で斬りつける。[0d0a]|[UNIT] Rapidly cut a foe as{0d0a}you swim circles around them.{0d0a}
+0x8e1000|《必殺技・単体》音速移動で敵を斬[0d0a]り裂き剣気を叩きつけ瞬殺する。[0d0a]|[UNIT] Strike at the speed{0d0a}of sound and defeat a foe.{0d0a}
+0x8e1800|《必殺技・単体》輝く闘気を身にま[0d0a]とい標的に特攻をかける。[0d0a]|[UNIT] Glow with fighting{0d0a}spirit and suicide rush a foe.{0d0a}
+0x8e2000|《必殺技・単体》魔界へと続く流れ[0d0a]に敵を巻き込み押し流す。[0d0a]|[UNIT] Envelop a foe in an{0d0a}unending infernal current.{0d0a}
+0x8e2800|《必殺技・全単体》神の鐘を召喚し[0d0a]聖なる音色で邪悪を吹き飛ばす。[0d0a]|[TEAM] Dispel evil with the{0d0a}toll of a divine bell.{0d0a}
+0x8e3000|《必殺技・単体》その地に眠る死霊[0d0a]を呼び起こし敵に取りつかせる。[0d0a]|[UNIT] Awaken the dead from{0d0a}the earth to haunt a foe.{0d0a}
+0x8e3800|《必殺技・単体》マーイーグルの得[0d0a]意とする技。鋭い爪で敵を倒す。[0d0a]|[UNIT] A Mereeagle art.{0d0a}Down a foe with sharp talons.{0d0a}
+0x8e4000|《必殺技・単体》伝説の生物モール[0d0a]の攻撃を模した必殺技。[0d0a]|[UNIT] Attack like a mole{0d0a}of legend.{0d0a}
+0x8e4800|《必殺技・単体》雷神の槌（トール[0d0a]ハンマー）で敵を薙ぎ倒す。[0d0a]|[UNIT] Smash a foe with the{0d0a}hammer of a lightning god.{0d0a}
+0x8e5000|《必殺技・単体》魔力で成長促進し[0d0a]た樹木を切り倒し敵を押しつぶす。[0d0a]|[UNIT] Grow a tree and chop{0d0a}it down on top of a foe.{0d0a}
+0x8e5800|《必殺技・全単体》神の鐘を召喚し[0d0a]聖なる音色で邪悪を吹き飛ばす。[0d0a]|[TEAM] Dispel evil with the{0d0a}toll of a divine bell.{0d0a}
+0x8e6000|《必殺技・単体》敵を挑発、自分の[0d0a]側におびき寄せ攻撃する。[0d0a]|[UNIT] Taunt a foe to{0d0a}lure them into an attack.{0d0a}
+0x8e6800|《必殺技・単体》鋭い槍さばきで海[0d0a]流から渦を発生させ敵を巻き込む。|[UNIT] Engulf a foe in a{0d0a}vortex of spear swipes.{0d0a}
+0x8e7000|《必殺技・単体》敵の周囲を高速で[0d0a]泳ぎながら連続で斬りつける。[0d0a]|[UNIT] Rapidly cut a foe as{0d0a}you swim circles around them.{0d0a}
+0x8e7800|《必殺技・単体》素早い剣撃で半月[0d0a]形の流れを作り敵を押し流す。[0d0a]|[UNIT] Quickly strike a foe{0d0a}with a crescent stream.{0d0a}
+0x8e8000|《必殺技・単体》ロッドより解き放[0d0a]たれた波動弾が敵を打つ。[0d0a]|[UNIT] Release balls of{0d0a}force at a foe from your rod.{0d0a}
+0x8e8800|《必殺技・単体》敵の周囲を高速で[0d0a]泳ぎながら連続で斬りつける。[0d0a]|[UNIT] Rapidly cut a foe as{0d0a}you swim circles around them.{0d0a}
+0x8e9000|《必殺技・単体》手にした武器で、[0d0a]相手にノックを浴びせる攻撃技。[0d0a]|[UNIT] Knock a foe down{0d0a}with a practice swing.{0d0a}
+0x8e9800|《必殺技・単体》敵を挑発、自分の[0d0a]側におびき寄せ攻撃する。[0d0a]|[UNIT] Taunt a foe to{0d0a}lure them into an attack.{0d0a}
+0x8ea000|《必殺技・単体》電流を帯びた気を[0d0a]放ち、敵を打つ。[0d0a]|[UNIT] Fire your electrified{0d0a}mana at a foe.{0d0a}

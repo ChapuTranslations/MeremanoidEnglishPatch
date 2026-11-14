@@ -1,0 +1,223 @@
+1|0x8001000c|0x8009fc50|？？？？？|?????
+1|0x80010018|0x8009fc40|ティアラ|Tiala
+1|0x80010024|0x8009fc38|アーディン|Ardin
+2|0x80010e20|0x800b370c|  設定 |Options
+2|0x80010e2c|0x800b3708|  状態 |Status
+2|0x80010e38|0x800b3704| 必殺技|Tricks
+2|0x80010e44|0x800b3700| 基本技|Attacks
+2|0x80010e50|0x800b36fc|入れ替え|Swap
+2|0x80010e5c|0x800b36f8|  装備 |Gear
+2|0x80010e68|0x800b36f4|  魔法 |Magic
+2|0x80010e74|0x800b36f0|アイテム|Items
+2|0x80010f40|0x800b3820|ステレオ|Stereo
+2|0x80010f4c|0x800b381c|モノラル|Mono
+2|0x80010eac|0x800b3828|固定|Fixed
+2|0x80010eac|0x800b3824|回転|Dynamic
+4|0x800114c8|0x800b6400|地下墓所の迷宮|Catacombs
+4|0x800114d8|0x800b63f0|道わかれるとき|Moment of Parting
+4|0x800114e8|0x800b63e8|七色さんごの村|Rainbow Coral
+4|0x800114f8|0x800b63e4|白き奇跡の間|Her White Miracle
+4|0x80011508|0x800b63e0|海賊船・シービュー|Pirate Ship
+4|0x8001151c|0x800b63dc|過去の過ち、過去の真実|Faults and Truths
+4|0x80011534|0x800b63d8|過去の帳につつまれし…|Shrouded in the Past
+4|0x8001154c|0x800b63b8|浄化城・ベランダ|Castle Veranda
+4|0x80011560|0x800b63b4|章表示・最終（６）章|Chapter 6 Finale
+4|0x80011578|0x800b63b0|章表示・第６章|Chapter 6
+4|0x80011588|0x800b63ac|章表示・第５章|Chapter 5
+4|0x80011598|0x800b63a8|章表示・第４章|Chapter 4
+4|0x800115a8|0x800b63a4|章表示・第３章|Chapter 3
+4|0x800115b8|0x800b6378,0x800b6394,0x800b6398,0x800b639c|パイエア・家の中Ｂ|Pai'ea Dwelling B
+4|0x800115cc|0x800b6374,0x800b637c,0x800b6380,0x800b6384,0x800b6388,0x800b638c,0x800b6390|パイエア・家の中Ａ|Pai'ea Dwelling A
+4|0x800115e0|0x800b6370|子守り海谷の家・小部屋(102)|Nursery Room 102
+4|0x800115fc|0x800b6364,0x800b6368,0x800b636c|子守り海谷の家・小部屋(100)|Nursery Room 100
+4|0x80011618|0x800b6360|不思議の海|Ocean of Wonder
+4|0x80011624|0x800b6358|浄化城・小さな部屋４|Castle Room 4
+4|0x8001163c|0x800b6354|浄化城・小さな部屋３|Castle Room 3
+4|0x80011654|0x800b6320|拷問部屋|Torture Chamber
+4|0x80011660|0x800b6318|永遠の炎の広場|Fire of Destiny
+4|0x80011670|0x800b6314|バルデス　牢獄内|Valdes Prison
+4|0x80011684|0x800b62fc|パーティー会場|Banquet Hall
+4|0x80011694|0x800b62e8|決戦前の部屋|Before the Battle
+4|0x800116a4|0x800b62e4|パイエア・ダンジョン４|Pai'ea Dungeon 4
+4|0x800116bc|0x800b62e0|心の瞳の廊下|Eyes of the Heart
+4|0x800116cc|0x800b62dc|パイエア・ダンジョン２|Pai'ea Dungeon 2
+4|0x800116e4|0x800b62d8|パイエア・ダンジョン１|Pai'ea Dungeon 1
+4|0x800116fc|0x800b62d4|ジハイド研究島・小部屋４|Laboratory Room 4
+4|0x80011718|0x800b62d0|ジハイド研究島・小部屋３|Laboratory Room 3
+4|0x80011734|0x800b62cc|ジハイド研究島・小部屋２|Laboratory Room 2
+4|0x80011750|0x800b62c8,0x800b63a0|ジハイド研究島・小部屋１|Laboratory Room 1
+4|0x8001176c|0x800b62c4|ジハイド研究島・廊下|Laboratory Corridor
+4|0x80011784|0x800b62a8|霊峰の里・家の中Ｂ|M.S. Dwelling B
+4|0x80011798|0x800b62a4|霊峰の里・家の中Ａ|M.S. Dwelling A
+4|0x800117ac|0x800b62a0,0x800b634c,0x800b6350|バルデス・家の中Ｃ|Valdes Dwelling C
+4|0x800117c0|0x800b629c,0x800b6348|バルデス・家の中Ｂ|Valdes Dwelling B
+4|0x800117d4|0x800b6298|バルデス・家の中Ａ|Valdes Dwelling A
+4|0x800117e8|0x800b6294,0x800b6340,0x800b6344|メーベガス・家の中Ｂ|M.V. Dwelling B
+4|0x80011800|0x800b6290,0x800b633c|メーベガス・家の中Ａ|M.V. Dwelling A
+4|0x80011818|0x800b628c,0x800b6334,0x800b6338|メーエリア・家の中Ｂ|Merelia Dwelling B
+4|0x80011830|0x800b6288,0x800b632c,0x800b6330|メーエリア・家の中Ａ|Merelia Dwelling A
+4|0x80011848|0x800b6284|七色サンゴの村・家の中Ｂ|R.C. Dwelling B
+4|0x80011864|0x800b6280,0x800b6328|七色サンゴの村・家の中Ａ|R.C. Dwelling A
+4|0x80011880|0x800b6274|章表示・第２章|Chapter 2
+4|0x80011890|0x800b6270|章表示・第１章|Chapter 1
+4|0x800118a0|0x800b626c,0x800b6324|浄化城内・静かの廊下|Castle Corridor
+4|0x800118b8|0x800b6244|地下への道標|Downward Signpost
+4|0x800118c8|0x800b6240|闇の底・・・静かなる通廊|Dark Depths Corridor
+4|0x800118e4|0x800b623c|闇の底・・・|Dark Depths
+4|0x800118f4|0x800b6228|アイテム屋|Item Shop
+4|0x80011900|0x800b6224|神殿内・神の宿る場所２|Where Gods Linger 2
+4|0x80011918|0x800b6220|神殿内・神の宿る場所１|Where Gods Linger 1
+4|0x80011930|0x800b621c|神殿内・日時計の部屋|Sundial Room
+4|0x80011948|0x800b6214|獅子の門|Lion's Gate
+4|0x80011954|0x800b6210|パイエア神殿|Pai'ea Temple
+4|0x80011964|0x800b6204|研究所の奥へ|Core Facility
+4|0x80011974|0x800b6200|ジハイド研究島・研究所内研究室|Research Lab
+4|0x80011994|0x800b61f8|ジハイド研究島外見|Research Lab Exterior
+4|0x800119a8|0x800b61f0|破壊された霊峰の里|Ravaged Settlement
+4|0x800119bc|0x800b61ec,0x800b61f4|封印の洞窟|Cavern of the Seal
+4|0x800119c8|0x800b61e8|霊峰の里　里長の館|Archmage's Dwelling
+4|0x800119dc|0x800b61e4|霊峰の里|Mountain Settlement
+4|0x800119e8|0x800b61e0|アルマンティア氷山帯|Almantia Ice Belt
+4|0x80011a00|0x800b61dc|鉱山内部|Mines
+4|0x80011a0c|0x800b61d8|バルデス　炭坑入口|Mine Entrance
+4|0x80011a20|0x800b61d4|バルデス　公使館|Valdes Court
+4|0x80011a34|0x800b61d0|城塞都市バルデス|Valdes Citadel
+4|0x80011a48|0x800b61cc|バルバル火山帯|Balbal Volcanic Zone
+4|0x80011a58|0x800b61c8|海賊船シービュー号|Pirate Ship
+4|0x80011a6c|0x800b61c4|メーベガス　大カジノ内|Grand Casino
+4|0x80011a84|0x800b61c0|娯楽の殿堂メーベガス|Mere Vegas
+4|0x80011a9c|0x800b61b8|子守り海谷の家　中庭|Nursery Yard
+4|0x80011ab4|0x800b61b0|子守り海谷の家|The Nursery
+4|0x80011ac4|0x800b61ac,0x800b635c|メザーレ砂漠|Desert of Mezzerle
+4|0x80011ad4|0x800b61a8|浄化城の地下、謎の遺跡|Underground Ruins
+4|0x80011aec|0x800b61a4|地下墓地の迷宮|Catacombs Maze
+4|0x80011afc|0x800b61a0|王女ティアラの部屋|Tiala's Room
+4|0x80011b10|0x800b619c|天の王座|Throne of the Divine
+4|0x80011b1c|0x800b6198|バルコニーにて|Balcony
+4|0x80011b2c|0x800b6194|浄化城の小部屋|Castle Small Room
+4|0x80011b3c|0x800b6190|浄化場内の小部屋|Castle Hall Small Room
+4|0x80011b50|0x800b618c|浄化場内、光の間|Where Light Graces
+4|0x80011b64|0x800b6184|プリンセスブランデル湾|Gulf of Brandell
+4|0x80011b7c|0x800b6180|メーエリア市街地|Merelia Metropolitan
+4|0x80011b90|0x800b617c|メーエリア商業地区|Merelia Plaza
+4|0x80011ba4|0x800b6178|さんごの狩り場　奥の遺跡|Hunter's Nest Ruins
+4|0x80011bc0|0x800b6170|大へびの洞窟|Serpent Cave
+4|0x80011bd0|0x800b616c|小屋の中|Shelter (Inside)
+4|0x80011bdc|0x800b6168|小さな小屋|Shelter
+4|0x80011be8|0x800b6164|旧・七色さんごの村|Rainbow Coral (Past)
+4|0x80011bfc|0x800b6160,0x800b6268,0x800b63ec|メア＝スコシア海域|Mere Scotia
+4|0x80011c10|0x800b615c|テスト用|TEST
+4|0x80013708|0x800b8d24|ありがとうございました！！|Thank you very much!
+4|0x80013724|0x800b8d20|また来てね〜、待ってるからッ！！|See you again!
+4|0x80013748|0x800b8d1c|え！？もうおわりなの〜？{NL}他にも何かしていってよ〜！|What? Done already?{NL}Well, you do you!
+4|0x8001377c|0x800b8d18|あら、いらっしゃい！{NL}今日の御用はなぁに？|Hello there!{NL}What would you like today?
+4|0x800c238c|0x800b631c|遺跡４|Ruins 4
+6|0x8001387c|0x800b9268|七色さんごの村|Rainbow Coral
+6|0x8001388c|0x800b9258|世界の裂け目|World Rift
+6|0x8001389c|0x800b8f10|浄化城、その隠された闇の底|Castle Depths
+6|0x800138b8|0x800b8eb8|パイエア神殿|Pai'ea Temple
+6|0x800138c8|0x800b8e60|霊峰の里|Mountain Settlement
+6|0x800138d4|0x800b8e58|アルマンティア氷山帯|Almantia Ice Belt
+6|0x800138ec|0x800b8e48|アグプト山炭坑|Agupt Mines
+6|0x800138fc|0x800b8e38|炭坑の街バルデス|Mining City of Valdes
+6|0x80013910|0x800b8e30|バルバル火山帯|Balbal Volcanic Zone
+6|0x80013920|0x800b8e18|極楽の殿堂メーベガス|Mere Vegas
+6|0x80013938|0x800b8df8|子守り海谷の家|The Nursery
+6|0x80013948|0x800b8df0|メザーレ砂漠|Desert of Mezzerle
+6|0x80013958|0x800b8da0|プリンセスブランデル湾|Gulf of Brandell
+6|0x80013970|0x800b8d90|白亜の都メーエリア|Merelia
+6|0x80013984|0x800b8d78|大へびの洞窟|Serpent Cave
+6|0x80013994|0x800b8d50,0x800b8d58,0x800b9270|メア＝スコシア海域|Mere Scotia
+7|0x800139e0|0x800b9398|またのご利用を{NL}お待ち致しております・・。|I look forward to{NL}seeing you again.
+7|0x80013a0c|0x800b9394|他に御用はありませんか？|What else can I help with?
+7|0x80013a28|0x800b9390|お一人様０００Ｇ、計０００Ｇに{NL}なりますが、よろしいですか？|It will be 000G per person,{NL}which makes 000G total.{NL}Would you like to stay?
+7|0x80013a64|0x800b938c|おや、お金が足りないようですね。{NL}他に御用はありませんか？|You don't have the funds.{NL}What else can I help with?
+7|0x80013aa0|0x800b9388|おはようございます。{NL}何か御用はありませんか？|Good morning!{NL}What can I help with?
+7|0x80013ad0|0x800b9384|いらっしゃいませ。{NL}どのようなご用件でしょうか？|Welcome!{NL}What'll it be?
+8|0x80013b70|0x800b93fc|フォーマット中です。{NL}メモリーカードを抜き差し{NL}しないでください。|Now formatting...{NL}Do not remove{NL}Memory Card.
+8|0x80013bb4|0x800b93f8|フォーマットに失敗しました|Unable to format!
+8|0x80013bd0|0x800b93f4|読込みに失敗しました！|Unable to load!
+8|0x80013be8|0x800b93f0|書込みに失敗しました。|Unable to save!
+8|0x80013c00|0x800b93ec|ロードが終了しました。|Load complete!
+8|0x80013c18|0x800b93e8|データのロード中です。{NL}メモリーカードを抜き差ししないで{NL}ください！！|Now loading...{NL}Do not remove{NL}Memory Card.
+8|0x80013c60|0x800b93e4|このファイルから、データを{NL}ロードしてよろしいですか？|Load data from{NL}this file?
+8|0x80013c98|0x800b93e0|セーブが終了しました。|Save complete!
+8|0x80013cb0|0x800b93dc|データのセーブ中です。{NL}メモリーカードを抜き差ししないで{NL}ください！！|Now saving...{NL}Do not remove{NL}Memory Card.
+8|0x80013cf8|0x800b93d8|セーブデータがありません！{NL}　○ボタンで再度読みこむ{NL}　×ボタンで戻る|Data not found!{NL} {CIRCLE} Try Again{NL} {CROSS} Back
+8|0x80013d40|0x800b93d4|データを上書きしますが、{NL}よろしいですか？|Overwrite data to{NL}this file?
+8|0x80013d6c|0x800b93d0|この場所にセーブします。{NL}よろしいですか？|Save data to{NL}this file?
+8|0x80013d98|0x800b93cc|メモリーカードが{NL}フォーマットされていません。{NL}　○ボタンで再度読みこむ{NL}　×ボタンで戻る|Memory Card{NL}not formatted.{NL} {CIRCLE} Try Again{NL} {CROSS} Back
+8|0x80013df0|0x800b93c8|メモリーカードが{NL}フォーマットされていません。{NL}今すぐフォーマットしますか？|Memory Card{NL}not formatted.{NL}Format now?
+8|0x80013e3c|0x800b93c4|空いているブロックがありません！|Insufficient space!
+8|0x80013e60|0x800b93c0|メモリーカード差込口１に{NL}メモリーカードが差されていません。{NL}　　　○ボタンで再度読みこむ{NL}　　　×ボタンで戻る|Memory Card not{NL}found in Slot 1.{NL} {CIRCLE} Try Again{NL} {CROSS} Back
+8|0x80013ed0|0x800b93bc|メモリーカードを{NL}チェックしています・・|Reading{NL}Memory Card...
+9|0x800c200c|0x8009fc4c|オルガ|Olga
+9|0x800c2014|0x8009fc48|モーガ|Moga
+9|0x800c201c|0x8009fc44|ルーク|Luke
+9|0x800c2024|0x8009fc3c|セーラ|Sarah
+11|0x800c21e4|0x800b3818|装飾品|Other
+11|0x800c21ec|0x800b3814|  体 |Body
+11|0x800c21f4|0x800b3810|  頭 |Head
+11|0x800c21fc|0x800b380c| 左手|L Hand
+11|0x800c2204|0x800b3808| 右手|R Hand
+13|0x800c238c|0x800b62ec,0x800b62f0,0x800b62f4,0x800b62f8|小部屋|Small Room
+13|0x800c239c|0x800b6278|大広間|Great Hall
+13|0x800c23a4|0x800b620c,0x800b8eb0|神の庭|The Garden
+13|0x800c23ac|0x800b6208|遺跡５|Ruins 5
+13|0x800c23b8|0x800b61b4,0x800b61bc,0x800b61fc,0x800b6218,0x800b622c,0x800b6230,0x800b6234,0x800b6238,0x800b6248,0x800b624c,0x800b6250,0x800b6254,0x800b6258,0x800b625c,0x800b6260,0x800b6264,0x800b627c,0x800b62ac,0x800b62b0,0x800b62b4,0x800b62b8,0x800b62bc,0x800b62c0,0x800b6300,0x800b6304,0x800b6308,0x800b630c,0x800b6310,0x800b63bc,0x800b63c0,0x800b63c4,0x800b63c8,0x800b63cc,0x800b63d0,0x800b63d4,0x800b63f4,0x800b63f8,0x800b63fc,0x800b6404,0x800b6408||{0x0}
+13|0x800c244c|0x800b8d60,0x800b8d68,0x800b8d70,0x800b8d88,0x800b8d98,0x800b8da8,0x800b8db0,0x800b8db8,0x800b8dc0,0x800b8dc8,0x800b8dd0,0x800b8dd8,0x800b8de0,0x800b8de8,0x800b8e00,0x800b8e08,0x800b8e10,0x800b8e20,0x800b8e28,0x800b8e40,0x800b8e50,0x800b8e68,0x800b8e70,0x800b8e78,0x800b8e80,0x800b8e88,0x800b8e90,0x800b8e98,0x800b8ea0,0x800b8ea8,0x800b8ec0,0x800b8ec8,0x800b8ed0,0x800b8ed8,0x800b8ee0,0x800b8ee8,0x800b8ef0,0x800b8ef8,0x800b8f00,0x800b8f08,0x800b8f18,0x800b8f20,0x800b8f28,0x800b8f30,0x800b8f38,0x800b8f40,0x800b8f48,0x800b8f50,0x800b8f58,0x800b8f60,0x800b8f68,0x800b8f70,0x800b8f78,0x800b8f80,0x800b8f88,0x800b8f90,0x800b8f98,0x800b8fa0,0x800b8fa8,0x800b8fb0,0x800b8fb8,0x800b8fc0,0x800b8fc8,0x800b8fd0,0x800b8fd8,0x800b8fe0,0x800b8fe8,0x800b8ff0,0x800b8ff8,0x800b9000,0x800b9008,0x800b9010,0x800b9018,0x800b9020,0x800b9028,0x800b9030,0x800b9038,0x800b9040,0x800b9048,0x800b9050,0x800b9058,0x800b9060,0x800b9068,0x800b9070,0x800b9078,0x800b9080,0x800b9088,0x800b9090,0x800b9098,0x800b90a0,0x800b90a8,0x800b90b0,0x800b90b8,0x800b90c0,0x800b90c8,0x800b90d0,0x800b90d8,0x800b90e0,0x800b90e8,0x800b90f0,0x800b90f8,0x800b9100,0x800b9108,0x800b9110,0x800b9118,0x800b9120,0x800b9128,0x800b9130,0x800b9138,0x800b9140,0x800b9148,0x800b9150,0x800b9158,0x800b9160,0x800b9168,0x800b9170,0x800b9178,0x800b9180,0x800b9188,0x800b9190,0x800b9198,0x800b91a0,0x800b91a8,0x800b91b0,0x800b91b8,0x800b91c0,0x800b91c8,0x800b91d0,0x800b91d8,0x800b91e0,0x800b91e8,0x800b91f0,0x800b91f8,0x800b9200,0x800b9208,0x800b9210,0x800b9218,0x800b9220,0x800b9228,0x800b9230,0x800b9238,0x800b9240,0x800b9248,0x800b9250,0x800b9260,0x800b9278,0x800b9280,0x800b9288,0x800b9290,0x800b9298| |{SP}{SP}
+14|0x800c22c0|0x800b6188|闇の底|Dark Depths
+14|0x800c23c0|0x800b6174,0x800b640c,0x800b8d80|狩り場|Hunter's Nest
+15|0x80013f08|0x800b9414|空き容量が足りません|Insufficient space!
+15|0x80013f20|0x800b9410|データがありません|Data not found!
+|0x80011b49||何も覚えていません|Nothing learned.
+|0x80011b62|| 石化しているので|Cannot be used
+|0x80011b71||   使用できません|when frozen!
+|0x80011b82||最強装備|Strongest
+|0x80011b8d||（両手持ち）|(Two-handed)
+|0x80011b9a||装備品がありません|Nothing to equip.
+|0x80011bad||装備できません|Cannot equip!
+|0x80011bc2||何も持っていません|Nothing to equip.
+|0x80011bd5||攻撃スタイル|Attack Style
+|0x80011be2||サウンド|Sound
+|0x80011be9||バトルカメラ|Battle Camera
+|0x80011bf8||は逃げ出した|is escaping
+|0x80011c05||は逃げ出した| is escaping
+|0x80010e90||逃げられない！！|Can't get away!
+|0x80010ea1||を手に入れました|acquired!
+|0x80010e74||はいいいえ|YES  NO{SP}{SP}
+|0x80010eac||異常|Ailments
+|0x80010eb5||石化|FRZN
+|0x80010ec8||毒|PSN
+|0x80010ed0|| 呪い|CRSD
+|0x80010ed7||頭痛|HDCH
+|0x80010ee2||金縛り|NUMB
+|0x80010ef3||ひるみ|SLOW
+|0x80010efa||開 始|Start
+|0x80010f01||戻 る|Exit
+|0x80010f06||なし|None
+|0x80010f0b||達|{0x0}
+|0x80010f0e||を修得した|learned spell
+|0x80010f1d||を修得した！|mastered trick
+|0x80010f2c||を修得した！|learned attack
+|0x80013708||買う売る店を出るアイテム名単価×個数小計|Buy Sell  Leave Item Price{CROSS}CountTotal
+|0x80013730||↑↓で選択・←→で個数を決定解説所持×売数|{UP}{DOWN}: Select item {LEFT}{RIGHT}: +/- AdjustHeld{CROSS}Sell
+|0x80013759||Ｌ２又はＲ２押しながらで１０個単位の選択|Hold L2/R2: 10x
+|0x8001376a||方向キー上下で選択・方向キー左右で個数を決定|{UP}{DOWN}: Select item {LEFT}{RIGHT}: +/- Adjust
+|0x80013789||この場所に行きますか？はいいいえ|Go to this location?  YES  NO{SP}{SP}
+|0x800137aa||泊まるセーブ外へ出るはいいいえ|Stay  Save   Leave  YES  NO{SP}{SP}
+|0x800c219c||全域|Area
+|0x800c21a4||全体|Team
+|0x800c21ac||単体|Unit
+|0x800c21bc||整頓|Sort
+|0x800c21c2||説明|Details
+|0x800c220c||はずす|Remove
+|0x800c22f0||無し|None
+|0x800c230c||全域|Area
+|0x800c2314||全体|Team
+|0x800c231c||単体|Unit
+|0x800c237c||・|.
+|0x800b8d30||アイテムショップの女の子|Item Shop Girl
+|0x80013f34||ファイル%c%c|File{%c}{%c}
+|0x80013f40||第%c%c章| Chapter{%c}{%c}
+|0x80013b00||宿の支配人|Innkeeper
